@@ -1,0 +1,1367 @@
+denovo1107	Unassigned	1.00	1
+denovo59	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo1109	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1108	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo886	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo887	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo884	Unassigned	1.00	1
+denovo885	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo882	Unassigned	1.00	1
+denovo883	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo880	Unassigned	1.00	1
+denovo881	Unassigned	1.00	1
+denovo888	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo889	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo452	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1170	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1171	Unassigned	1.00	1
+denovo1172	Unassigned	1.00	1
+denovo1173	Unassigned	1.00	1
+denovo1174	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1175	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	1.00	3
+denovo1176	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo1177	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1178	Unassigned	1.00	1
+denovo1179	Unassigned	1.00	1
+denovo1358	Unassigned	1.00	1
+denovo1359	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1350	Unassigned	1.00	1
+denovo1351	Unassigned	1.00	1
+denovo1352	Unassigned	1.00	1
+denovo1353	Unassigned	1.00	1
+denovo1354	Unassigned	1.00	1
+denovo1355	Unassigned	1.00	1
+denovo1356	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+denovo1357	Unassigned	1.00	1
+denovo323	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo322	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo1198	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1199	Unassigned	1.00	1
+denovo327	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo326	Unassigned	1.00	1
+denovo325	Unassigned	1.00	1
+denovo324	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	0.67	3
+denovo1192	Unassigned	1.00	1
+denovo1193	Unassigned	1.00	1
+denovo1190	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1191	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1196	Unassigned	1.00	1
+denovo1197	Unassigned	1.00	1
+denovo1194	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo1195	Unassigned	1.00	1
+denovo187	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo186	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo185	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	1
+denovo184	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	1
+denovo183	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	2
+denovo182	Unassigned	1.00	1
+denovo181	Unassigned	1.00	1
+denovo180	Unassigned	1.00	1
+denovo1224	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1225	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo1226	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1227	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1220	Unassigned	1.00	1
+denovo1221	Unassigned	1.00	1
+denovo189	Unassigned	1.00	1
+denovo188	Unassigned	1.00	1
+denovo437	Unassigned	1.00	1
+denovo436	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo435	Unassigned	1.00	1
+denovo434	Unassigned	1.00	1
+denovo433	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo432	Unassigned	1.00	1
+denovo431	Unassigned	1.00	1
+denovo430	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo439	Unassigned	1.00	1
+denovo438	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo619	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo618	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo617	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo616	Unassigned	1.00	1
+denovo615	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo614	Unassigned	1.00	1
+denovo613	Unassigned	1.00	1
+denovo612	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius	0.67	3
+denovo611	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+denovo610	Unassigned	1.00	1
+denovo509	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+denovo508	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo503	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo502	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo501	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo500	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo507	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo506	Unassigned	1.00	1
+denovo505	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo504	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo653	Unassigned	1.00	1
+denovo120	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo651	Unassigned	1.00	1
+denovo122	Unassigned	1.00	1
+denovo1033	Unassigned	1.00	1
+denovo125	Unassigned	1.00	1
+denovo1032	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo124	Unassigned	1.00	1
+denovo127	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	1
+denovo126	Unassigned	1.00	1
+denovo1039	Unassigned	1.00	1
+denovo1038	Unassigned	1.00	1
+denovo423	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo989	Unassigned	1.00	1
+denovo988	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus	0.67	3
+denovo987	Unassigned	1.00	1
+denovo986	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo985	Unassigned	1.00	1
+denovo984	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo983	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo982	Unassigned	1.00	1
+denovo981	Unassigned	1.00	1
+denovo980	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo1167	Unassigned	1.00	1
+denovo1166	Unassigned	1.00	1
+denovo1165	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo1164	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1163	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1162	Unassigned	1.00	1
+denovo1161	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1160	Unassigned	1.00	1
+denovo1169	Unassigned	1.00	1
+denovo1168	Unassigned	1.00	1
+denovo1329	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo595	Unassigned	1.00	1
+denovo1349	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1348	Unassigned	1.00	1
+denovo1347	Unassigned	1.00	1
+denovo1346	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+denovo1345	Unassigned	1.00	1
+denovo1344	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1343	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1342	Unassigned	1.00	1
+denovo1341	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1340	Unassigned	1.00	1
+denovo334	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo335	Unassigned	1.00	1
+denovo336	Unassigned	1.00	1
+denovo337	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo330	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo331	Unassigned	1.00	1
+denovo332	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo333	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo1181	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1180	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus	0.67	3
+denovo1183	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1182	Unassigned	1.00	1
+denovo1185	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo339	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1187	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo1186	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo598	Unassigned	1.00	1
+denovo599	Unassigned	1.00	1
+denovo198	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo199	Unassigned	1.00	1
+denovo1248	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo190	Unassigned	1.00	1
+denovo191	Unassigned	1.00	1
+denovo192	Unassigned	1.00	1
+denovo193	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo194	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo195	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo196	Unassigned	1.00	1
+denovo197	Unassigned	1.00	1
+denovo1233	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	2
+denovo1232	Unassigned	1.00	1
+denovo1231	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1230	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	1.00	2
+denovo1237	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo1236	Unassigned	1.00	1
+denovo1235	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1234	Unassigned	1.00	1
+denovo420	Unassigned	1.00	1
+denovo421	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1239	Unassigned	1.00	1
+denovo1238	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo424	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+denovo425	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo426	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo427	Unassigned	1.00	1
+denovo600	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo601	Unassigned	1.00	1
+denovo602	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo603	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo604	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo605	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo606	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo607	Unassigned	1.00	1
+denovo608	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo609	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo518	Unassigned	1.00	1
+denovo519	Unassigned	1.00	1
+denovo514	Unassigned	1.00	1
+denovo515	Unassigned	1.00	1
+denovo516	Unassigned	1.00	1
+denovo517	Unassigned	1.00	1
+denovo510	Unassigned	1.00	1
+denovo511	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo512	Unassigned	1.00	1
+denovo513	Unassigned	1.00	1
+denovo990	Unassigned	1.00	1
+denovo991	Unassigned	1.00	1
+denovo992	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo993	Unassigned	1.00	1
+denovo994	Unassigned	1.00	1
+denovo995	Unassigned	1.00	1
+denovo996	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+denovo997	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo998	Unassigned	1.00	1
+denovo999	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1246	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1247	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+denovo1244	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1245	Unassigned	1.00	1
+denovo459	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo1243	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1240	Unassigned	1.00	1
+denovo1241	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo455	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo454	Unassigned	1.00	1
+denovo457	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo456	Unassigned	1.00	1
+denovo451	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo450	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides	1.00	2
+denovo453	Unassigned	1.00	1
+denovo1249	Unassigned	1.00	1
+denovo299	Unassigned	1.00	1
+denovo298	Unassigned	1.00	1
+denovo293	Unassigned	1.00	1
+denovo292	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo291	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo290	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo297	Unassigned	1.00	1
+denovo296	Unassigned	1.00	1
+denovo295	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo294	Unassigned	1.00	1
+denovo675	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo674	Unassigned	1.00	1
+denovo677	Unassigned	1.00	1
+denovo676	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo671	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo670	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo673	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo672	Unassigned	1.00	1
+denovo679	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo678	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo709	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo708	Unassigned	1.00	1
+denovo701	Unassigned	1.00	1
+denovo700	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+denovo703	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo702	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo705	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo704	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo707	Unassigned	1.00	1
+denovo706	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo248	Unassigned	1.00	1
+denovo249	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo321	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo851	Unassigned	1.00	1
+denovo850	Unassigned	1.00	1
+denovo853	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo852	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo855	Unassigned	1.00	1
+denovo854	Unassigned	1.00	1
+denovo857	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo856	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo859	Unassigned	1.00	1
+denovo858	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1242	Unassigned	1.00	1
+denovo329	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo328	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo1074	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo1255	Unassigned	1.00	1
+denovo1254	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1257	k__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Synergistaceae	0.67	3
+denovo1256	Unassigned	1.00	1
+denovo1251	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo1250	Unassigned	1.00	1
+denovo1253	Unassigned	1.00	1
+denovo1252	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	0.67	3
+denovo446	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo447	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo444	Unassigned	1.00	1
+denovo445	Unassigned	1.00	1
+denovo1259	Unassigned	1.00	1
+denovo1258	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+denovo440	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo441	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo288	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo289	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo284	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo285	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo286	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo287	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo280	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+denovo281	Unassigned	1.00	1
+denovo282	Unassigned	1.00	1
+denovo283	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo666	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo667	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo664	Unassigned	1.00	1
+denovo665	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo662	Unassigned	1.00	1
+denovo663	Unassigned	1.00	1
+denovo660	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo661	Unassigned	1.00	1
+denovo668	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo669	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Odoribacter; s__	0.67	3
+denovo1228	Unassigned	1.00	1
+denovo1229	Unassigned	1.00	1
+denovo718	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+denovo719	Unassigned	1.00	1
+denovo712	Unassigned	1.00	1
+denovo713	Unassigned	1.00	1
+denovo710	Unassigned	1.00	1
+denovo711	Unassigned	1.00	1
+denovo716	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri	0.67	3
+denovo717	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo714	Unassigned	1.00	1
+denovo715	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1222	Unassigned	1.00	1
+denovo1223	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo842	Unassigned	1.00	1
+denovo843	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo840	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo841	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo846	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo847	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo844	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo845	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo848	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo849	Unassigned	1.00	1
+denovo1080	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo1081	Unassigned	1.00	1
+denovo1082	Unassigned	1.00	1
+denovo1083	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1084	Unassigned	1.00	1
+denovo1085	Unassigned	1.00	1
+denovo1086	Unassigned	1.00	1
+denovo1087	Unassigned	1.00	1
+denovo1088	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo1089	Unassigned	1.00	1
+denovo385	Unassigned	1.00	1
+denovo384	Unassigned	1.00	1
+denovo387	Unassigned	1.00	1
+denovo386	Unassigned	1.00	1
+denovo381	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo380	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo383	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo382	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo389	Unassigned	1.00	1
+denovo388	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo1268	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	1
+denovo1269	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo1260	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo1261	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1262	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1263	Unassigned	1.00	1
+denovo1264	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1265	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1266	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo1267	Unassigned	1.00	1
+denovo473	Unassigned	1.00	1
+denovo472	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo471	Unassigned	1.00	1
+denovo470	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo477	Unassigned	1.00	1
+denovo476	Unassigned	1.00	1
+denovo475	Unassigned	1.00	1
+denovo474	Unassigned	1.00	1
+denovo1062	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1063	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1060	Unassigned	1.00	1
+denovo1061	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1066	Unassigned	1.00	1
+denovo1067	Unassigned	1.00	1
+denovo1064	Unassigned	1.00	1
+denovo1065	Unassigned	1.00	1
+denovo271	Unassigned	1.00	1
+denovo270	Unassigned	1.00	1
+denovo273	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo272	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+denovo275	Unassigned	1.00	1
+denovo274	Unassigned	1.00	1
+denovo277	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo276	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo279	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo278	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo499	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo498	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1028	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo491	Unassigned	1.00	1
+denovo490	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo493	Unassigned	1.00	1
+denovo492	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo495	Unassigned	1.00	1
+denovo494	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo497	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo496	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo729	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo728	Unassigned	1.00	1
+denovo727	Unassigned	1.00	1
+denovo726	Unassigned	1.00	1
+denovo725	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+denovo724	Unassigned	1.00	1
+denovo723	Unassigned	1.00	1
+denovo722	Unassigned	1.00	1
+denovo721	Unassigned	1.00	1
+denovo720	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo129	Unassigned	1.00	1
+denovo128	Unassigned	1.00	1
+denovo659	Unassigned	1.00	1
+denovo658	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo121	Unassigned	1.00	1
+denovo652	Unassigned	1.00	1
+denovo123	Unassigned	1.00	1
+denovo650	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo657	Unassigned	1.00	1
+denovo656	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo655	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo654	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo877	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo876	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+denovo875	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo874	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo873	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo872	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo871	Unassigned	1.00	1
+denovo870	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo879	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo878	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1308	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo1079	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1078	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1097	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1096	Unassigned	1.00	1
+denovo1095	Unassigned	1.00	1
+denovo1094	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1093	Unassigned	1.00	1
+denovo1092	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1091	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1090	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1075	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo1099	Unassigned	1.00	1
+denovo1098	Unassigned	1.00	1
+denovo1059	Unassigned	1.00	1
+denovo396	Unassigned	1.00	1
+denovo397	Unassigned	1.00	1
+denovo394	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo395	Unassigned	1.00	1
+denovo392	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+denovo393	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo390	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo391	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo398	Unassigned	1.00	1
+denovo399	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	1
+denovo1279	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo1278	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1277	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1276	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+denovo1275	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1274	Unassigned	1.00	1
+denovo1273	Unassigned	1.00	1
+denovo1272	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo1271	Unassigned	1.00	1
+denovo1270	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo464	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo465	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo466	Unassigned	1.00	1
+denovo467	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo460	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo461	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo462	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+denovo463	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1071	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo1070	Unassigned	1.00	1
+denovo1073	Unassigned	1.00	1
+denovo1072	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo468	Unassigned	1.00	1
+denovo469	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo1077	Unassigned	1.00	1
+denovo1076	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo262	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo263	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo260	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo261	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo266	Unassigned	1.00	1
+denovo267	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__	0.67	3
+denovo264	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo265	Unassigned	1.00	1
+denovo268	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo269	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo488	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo489	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo482	Unassigned	1.00	1
+denovo483	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo480	Unassigned	1.00	1
+denovo481	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo486	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo487	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo484	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo485	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo730	Unassigned	1.00	1
+denovo731	Unassigned	1.00	1
+denovo732	Unassigned	1.00	1
+denovo733	Unassigned	1.00	1
+denovo734	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo735	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo736	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo737	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo738	Unassigned	1.00	1
+denovo739	Unassigned	1.00	1
+denovo138	Unassigned	1.00	1
+denovo139	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo648	Unassigned	1.00	1
+denovo649	Unassigned	1.00	1
+denovo132	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo133	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo646	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo131	Unassigned	1.00	1
+denovo136	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo137	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+denovo134	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo643	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo1134	Unassigned	1.00	1
+denovo1135	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	1
+denovo1136	Unassigned	1.00	1
+denovo1137	Unassigned	1.00	1
+denovo1130	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo1131	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo868	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo869	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1132	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo860	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo861	Unassigned	1.00	1
+denovo862	Unassigned	1.00	1
+denovo863	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo864	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo865	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo866	Unassigned	1.00	1
+denovo867	Unassigned	1.00	1
+denovo0	Unassigned	1.00	1
+denovo1	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo2	Unassigned	1.00	1
+denovo3	Unassigned	1.00	1
+denovo4	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo5	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo6	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo7	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo8	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo9	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1282	Unassigned	1.00	1
+denovo1283	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1280	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1281	Unassigned	1.00	1
+denovo1286	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1287	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1284	Unassigned	1.00	1
+denovo1285	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1288	Unassigned	1.00	1
+denovo1289	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1048	Unassigned	1.00	1
+denovo1049	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1044	Unassigned	1.00	1
+denovo1045	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1046	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+denovo1047	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+denovo1040	Unassigned	1.00	1
+denovo1041	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1042	Unassigned	1.00	1
+denovo1043	Unassigned	1.00	1
+denovo257	Unassigned	1.00	1
+denovo256	Unassigned	1.00	1
+denovo255	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	2
+denovo254	Unassigned	1.00	1
+denovo253	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo252	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo251	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo250	Unassigned	1.00	1
+denovo259	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo258	Unassigned	1.00	1
+denovo745	Unassigned	1.00	1
+denovo744	Unassigned	1.00	1
+denovo747	Unassigned	1.00	1
+denovo746	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo741	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo740	Unassigned	1.00	1
+denovo743	Unassigned	1.00	1
+denovo742	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo749	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo748	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo644	Unassigned	1.00	1
+denovo645	Unassigned	1.00	1
+denovo130	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo647	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo640	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo641	Unassigned	1.00	1
+denovo642	Unassigned	1.00	1
+denovo109	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo108	Unassigned	1.00	1
+denovo107	Unassigned	1.00	1
+denovo106	Unassigned	1.00	1
+denovo105	Unassigned	1.00	1
+denovo135	Unassigned	1.00	1
+denovo103	Unassigned	1.00	1
+denovo102	Unassigned	1.00	1
+denovo101	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri	1.00	3
+denovo100	Unassigned	1.00	1
+denovo819	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo818	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo815	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo814	Unassigned	1.00	1
+denovo817	Unassigned	1.00	1
+denovo816	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Allobaculum; s__	0.67	3
+denovo811	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo810	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo813	Unassigned	1.00	1
+denovo812	Unassigned	1.00	1
+denovo921	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo920	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo923	Unassigned	1.00	1
+denovo922	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo925	Unassigned	1.00	1
+denovo924	Unassigned	1.00	1
+denovo927	Unassigned	1.00	1
+denovo926	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	1.00	3
+denovo929	Unassigned	1.00	1
+denovo928	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo92	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia	0.67	3
+denovo93	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+denovo90	Unassigned	1.00	1
+denovo91	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo96	Unassigned	1.00	1
+denovo97	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo94	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo95	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo98	Unassigned	1.00	1
+denovo99	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo78	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo79	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo70	Unassigned	1.00	1
+denovo71	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+denovo72	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	0.67	3
+denovo73	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo74	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo75	Unassigned	1.00	1
+denovo76	Unassigned	1.00	1
+denovo77	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo448	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo449	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo442	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo443	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo1291	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+denovo1290	Unassigned	1.00	1
+denovo1293	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1292	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1295	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1294	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo1297	Unassigned	1.00	1
+denovo1296	Unassigned	1.00	1
+denovo1299	Unassigned	1.00	1
+denovo1298	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo1053	Unassigned	1.00	1
+denovo1052	Unassigned	1.00	1
+denovo1051	Unassigned	1.00	1
+denovo1050	Unassigned	1.00	1
+denovo1057	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1056	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1055	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo1054	Unassigned	1.00	1
+denovo240	Unassigned	1.00	1
+denovo241	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo242	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo243	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo244	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo245	Unassigned	1.00	1
+denovo246	Unassigned	1.00	1
+denovo247	Unassigned	1.00	1
+denovo1188	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+denovo756	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo757	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo754	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo755	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius	0.67	3
+denovo752	Unassigned	1.00	1
+denovo753	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo750	Unassigned	1.00	1
+denovo751	Unassigned	1.00	1
+denovo758	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo759	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo110	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo111	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo112	Unassigned	1.00	1
+denovo113	Unassigned	1.00	1
+denovo114	Unassigned	1.00	1
+denovo115	Unassigned	1.00	1
+denovo116	Unassigned	1.00	1
+denovo117	Unassigned	1.00	1
+denovo118	Unassigned	1.00	1
+denovo119	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	1.00	3
+denovo1140	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo808	Unassigned	1.00	1
+denovo809	Unassigned	1.00	1
+denovo806	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo807	Unassigned	1.00	1
+denovo804	Unassigned	1.00	1
+denovo805	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo802	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+denovo803	Unassigned	1.00	1
+denovo800	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo801	Unassigned	1.00	1
+denovo932	Unassigned	1.00	1
+denovo933	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo930	Unassigned	1.00	1
+denovo931	Unassigned	1.00	1
+denovo936	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo937	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__perfringens	0.67	3
+denovo934	Unassigned	1.00	1
+denovo935	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo938	Unassigned	1.00	1
+denovo939	Unassigned	1.00	1
+denovo1110	Unassigned	1.00	1
+denovo1111	Unassigned	1.00	1
+denovo1330	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1118	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1119	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1331	Unassigned	1.00	1
+denovo85	Unassigned	1.00	1
+denovo84	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo87	Unassigned	1.00	1
+denovo86	Unassigned	1.00	1
+denovo81	Unassigned	1.00	1
+denovo80	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo83	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo82	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo89	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo88	Unassigned	1.00	1
+denovo1112	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1113	Unassigned	1.00	1
+denovo69	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo68	Unassigned	1.00	1
+denovo1116	Unassigned	1.00	1
+denovo1117	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1114	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1115	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	1.00	3
+denovo63	Unassigned	1.00	1
+denovo62	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo61	Unassigned	1.00	1
+denovo60	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo67	Unassigned	1.00	1
+denovo66	Unassigned	1.00	1
+denovo65	Unassigned	1.00	1
+denovo64	Unassigned	1.00	1
+denovo1026	Unassigned	1.00	1
+denovo1027	Unassigned	1.00	1
+denovo1024	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1025	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+denovo1022	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1023	Unassigned	1.00	1
+denovo1020	Unassigned	1.00	1
+denovo1021	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo235	Unassigned	1.00	1
+denovo234	Unassigned	1.00	1
+denovo237	Unassigned	1.00	1
+denovo236	Unassigned	1.00	1
+denovo231	Unassigned	1.00	1
+denovo230	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo233	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1029	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo583	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius	0.67	3
+denovo582	Unassigned	1.00	1
+denovo581	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo580	Unassigned	1.00	1
+denovo587	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo586	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo585	Unassigned	1.00	1
+denovo584	Unassigned	1.00	1
+denovo1332	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1333	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo589	Unassigned	1.00	1
+denovo588	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	1.00	3
+denovo1336	Unassigned	1.00	1
+denovo1337	Unassigned	1.00	1
+denovo1334	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1335	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo341	Unassigned	1.00	1
+denovo340	Unassigned	1.00	1
+denovo343	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo342	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo345	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo344	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo347	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	2
+denovo346	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]	0.67	3
+denovo349	Unassigned	1.00	1
+denovo348	Unassigned	1.00	1
+denovo569	Unassigned	1.00	1
+denovo568	Unassigned	1.00	1
+denovo561	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo560	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo563	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo562	Unassigned	1.00	1
+denovo565	Unassigned	1.00	1
+denovo564	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo567	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo566	Unassigned	1.00	1
+denovo165	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo164	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo167	Unassigned	1.00	1
+denovo166	Unassigned	1.00	1
+denovo693	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo160	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo163	Unassigned	1.00	1
+denovo162	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo169	Unassigned	1.00	1
+denovo168	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo699	Unassigned	1.00	1
+denovo698	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__Christensenella; s__	1.00	3
+denovo769	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+denovo768	Unassigned	1.00	1
+denovo763	Unassigned	1.00	1
+denovo762	Unassigned	1.00	1
+denovo761	Unassigned	1.00	1
+denovo760	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo767	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo766	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo765	Unassigned	1.00	1
+denovo764	Unassigned	1.00	1
+denovo833	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo1189	Unassigned	1.00	1
+denovo831	Unassigned	1.00	1
+denovo830	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo837	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo836	Unassigned	1.00	1
+denovo835	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo834	Unassigned	1.00	1
+denovo839	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo838	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo239	Unassigned	1.00	1
+denovo238	Unassigned	1.00	1
+denovo338	Unassigned	1.00	1
+denovo1184	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo907	Unassigned	1.00	1
+denovo906	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo905	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo904	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo903	Unassigned	1.00	1
+denovo902	Unassigned	1.00	1
+denovo901	Unassigned	1.00	1
+denovo900	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo232	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo909	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo908	Unassigned	1.00	1
+denovo1058	Unassigned	1.00	1
+denovo1101	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+denovo1100	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1103	Unassigned	1.00	1
+denovo1102	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo1105	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+denovo1104	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo58	Unassigned	1.00	1
+denovo1106	Unassigned	1.00	1
+denovo56	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo57	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	2
+denovo54	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo55	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo52	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo53	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo50	Unassigned	1.00	1
+denovo51	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1035	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1034	Unassigned	1.00	1
+denovo1037	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1036	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+denovo1031	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1030	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__	0.67	3
+denovo228	Unassigned	1.00	1
+denovo229	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo226	Unassigned	1.00	1
+denovo227	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo224	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo225	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo222	Unassigned	1.00	1
+denovo223	Unassigned	1.00	1
+denovo220	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo221	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1145	Unassigned	1.00	1
+denovo13	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo10	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo428	Unassigned	1.00	1
+denovo11	Unassigned	1.00	1
+denovo429	Unassigned	1.00	1
+denovo1141	Unassigned	1.00	1
+denovo1338	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo17	Unassigned	1.00	1
+denovo1339	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1143	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+denovo1142	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo594	Unassigned	1.00	1
+denovo1328	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	1.00	3
+denovo596	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+denovo597	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo590	Unassigned	1.00	1
+denovo591	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo592	Unassigned	1.00	1
+denovo593	Unassigned	1.00	1
+denovo1321	Unassigned	1.00	1
+denovo1320	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1323	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo1322	Unassigned	1.00	1
+denovo1325	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1324	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1327	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo1326	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__	1.00	3
+denovo352	Unassigned	1.00	1
+denovo353	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo350	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo351	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo356	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo357	Unassigned	1.00	1
+denovo354	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo355	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo358	Unassigned	1.00	1
+denovo359	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+denovo422	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo578	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo579	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo572	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo573	Unassigned	1.00	1
+denovo570	Unassigned	1.00	1
+denovo571	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo576	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo577	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo574	Unassigned	1.00	1
+denovo575	Unassigned	1.00	1
+denovo688	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo689	Unassigned	1.00	1
+denovo680	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo681	Unassigned	1.00	1
+denovo682	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo683	Unassigned	1.00	1
+denovo684	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo685	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo686	Unassigned	1.00	1
+denovo687	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+denovo176	Unassigned	1.00	1
+denovo177	Unassigned	1.00	1
+denovo174	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo175	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+denovo172	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo173	Unassigned	1.00	1
+denovo170	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo171	Unassigned	1.00	1
+denovo178	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo179	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo778	Unassigned	1.00	1
+denovo779	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo774	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo775	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo776	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	1
+denovo777	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+denovo770	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+denovo771	Unassigned	1.00	1
+denovo772	Unassigned	1.00	1
+denovo773	Unassigned	1.00	1
+denovo824	Unassigned	1.00	1
+denovo825	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo826	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo827	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo820	Unassigned	1.00	1
+denovo821	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo822	Unassigned	1.00	1
+denovo823	Unassigned	1.00	1
+denovo828	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo829	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo918	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo919	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo910	Unassigned	1.00	1
+denovo911	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo912	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo913	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo914	Unassigned	1.00	1
+denovo915	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo916	Unassigned	1.00	1
+denovo917	Unassigned	1.00	1
+denovo41	Unassigned	1.00	1
+denovo40	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo43	Unassigned	1.00	1
+denovo42	Unassigned	1.00	1
+denovo45	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo44	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo47	Unassigned	1.00	1
+denovo46	Unassigned	1.00	1
+denovo49	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo48	Unassigned	1.00	1
+denovo1138	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1139	Unassigned	1.00	1
+denovo697	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo696	Unassigned	1.00	1
+denovo695	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__	0.67	3
+denovo694	Unassigned	1.00	1
+denovo161	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo104	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo692	Unassigned	1.00	1
+denovo691	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo690	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1008	Unassigned	1.00	1
+denovo1009	Unassigned	1.00	1
+denovo1000	Unassigned	1.00	1
+denovo1001	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo1002	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1003	Unassigned	1.00	1
+denovo1004	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo1005	Unassigned	1.00	1
+denovo1006	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1007	Unassigned	1.00	1
+denovo213	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	2
+denovo212	Unassigned	1.00	1
+denovo211	Unassigned	1.00	1
+denovo210	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo217	Unassigned	1.00	1
+denovo216	Unassigned	1.00	1
+denovo215	Unassigned	1.00	1
+denovo214	Unassigned	1.00	1
+denovo219	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo218	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo1318	Unassigned	1.00	1
+denovo1319	Unassigned	1.00	1
+denovo1314	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1315	Unassigned	1.00	1
+denovo1316	Unassigned	1.00	1
+denovo1317	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1310	Unassigned	1.00	1
+denovo1311	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo1312	Unassigned	1.00	1
+denovo1313	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo367	Unassigned	1.00	1
+denovo366	Unassigned	1.00	1
+denovo365	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo364	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	2
+denovo363	Unassigned	1.00	1
+denovo362	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	1
+denovo361	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo360	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo369	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo368	Unassigned	1.00	1
+denovo549	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo548	Unassigned	1.00	1
+denovo547	Unassigned	1.00	1
+denovo546	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	2
+denovo545	Unassigned	1.00	1
+denovo544	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia	0.67	3
+denovo543	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo542	Unassigned	1.00	1
+denovo541	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+denovo540	Unassigned	1.00	1
+denovo149	Unassigned	1.00	1
+denovo148	Unassigned	1.00	1
+denovo143	Unassigned	1.00	1
+denovo142	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo141	Unassigned	1.00	1
+denovo140	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__plebeius	0.67	3
+denovo147	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo146	Unassigned	1.00	1
+denovo145	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+denovo144	Unassigned	1.00	1
+denovo781	Unassigned	1.00	1
+denovo780	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo783	Unassigned	1.00	1
+denovo782	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo785	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Holdemania; s__	1.00	2
+denovo784	Unassigned	1.00	1
+denovo787	Unassigned	1.00	1
+denovo786	Unassigned	1.00	1
+denovo789	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo788	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo969	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo968	Unassigned	1.00	1
+denovo965	Unassigned	1.00	1
+denovo964	Unassigned	1.00	1
+denovo967	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo966	Unassigned	1.00	1
+denovo961	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo960	Unassigned	1.00	1
+denovo963	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__	1.00	3
+denovo962	Unassigned	1.00	1
+denovo1363	Unassigned	1.00	1
+denovo1362	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo832	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	2
+denovo1129	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo1128	Unassigned	1.00	1
+denovo1123	Unassigned	1.00	1
+denovo1122	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo1121	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1120	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1127	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+denovo1126	Unassigned	1.00	1
+denovo1125	Unassigned	1.00	1
+denovo1124	Unassigned	1.00	1
+denovo34	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo35	Unassigned	1.00	1
+denovo36	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+denovo37	Unassigned	1.00	1
+denovo30	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+denovo31	Unassigned	1.00	1
+denovo32	Unassigned	1.00	1
+denovo33	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo38	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+denovo39	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo1019	Unassigned	1.00	1
+denovo1018	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1017	Unassigned	1.00	1
+denovo1016	Unassigned	1.00	1
+denovo1015	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+denovo1014	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1013	Unassigned	1.00	1
+denovo1012	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo1011	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+denovo1010	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia	0.67	3
+denovo204	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	2
+denovo205	Unassigned	1.00	1
+denovo206	Unassigned	1.00	1
+denovo207	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo200	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo201	Unassigned	1.00	1
+denovo202	Unassigned	1.00	1
+denovo203	Unassigned	1.00	1
+denovo208	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo209	Unassigned	1.00	1
+denovo1303	Unassigned	1.00	1
+denovo1302	Unassigned	1.00	1
+denovo1301	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+denovo1300	Unassigned	1.00	1
+denovo1307	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo1306	Unassigned	1.00	1
+denovo1305	Unassigned	1.00	1
+denovo1304	Unassigned	1.00	1
+denovo370	Unassigned	1.00	1
+denovo371	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	1.00	3
+denovo372	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo373	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo374	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo375	Unassigned	1.00	1
+denovo376	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo377	Unassigned	1.00	1
+denovo1133	Unassigned	1.00	1
+denovo550	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo551	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo552	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo553	Unassigned	1.00	1
+denovo554	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+denovo555	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo556	Unassigned	1.00	1
+denovo557	Unassigned	1.00	1
+denovo558	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo559	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo158	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo159	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo154	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo155	Unassigned	1.00	1
+denovo156	Unassigned	1.00	1
+denovo157	Unassigned	1.00	1
+denovo150	Unassigned	1.00	1
+denovo151	Unassigned	1.00	1
+denovo152	Unassigned	1.00	1
+denovo153	Unassigned	1.00	1
+denovo479	Unassigned	1.00	1
+denovo792	Unassigned	1.00	1
+denovo793	Unassigned	1.00	1
+denovo790	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__	1.00	3
+denovo791	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo796	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo797	Unassigned	1.00	1
+denovo794	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo795	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo798	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo799	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo320	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo978	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo979	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo976	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo977	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo974	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo975	Unassigned	1.00	1
+denovo972	Unassigned	1.00	1
+denovo973	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+denovo970	Unassigned	1.00	1
+denovo971	Unassigned	1.00	1
+denovo1158	Unassigned	1.00	1
+denovo1159	Unassigned	1.00	1
+denovo1156	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1157	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea	0.67	3
+denovo1154	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1155	Unassigned	1.00	1
+denovo1152	Unassigned	1.00	1
+denovo1153	Unassigned	1.00	1
+denovo1150	Unassigned	1.00	1
+denovo1151	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__	1.00	3
+denovo27	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo26	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo25	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo24	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo23	Unassigned	1.00	1
+denovo22	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo21	Unassigned	1.00	1
+denovo20	Unassigned	1.00	1
+denovo29	Unassigned	1.00	1
+denovo28	Unassigned	1.00	1
+denovo309	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo308	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo305	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo304	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo307	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo306	Unassigned	1.00	1
+denovo301	Unassigned	1.00	1
+denovo300	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo303	Unassigned	1.00	1
+denovo302	Unassigned	1.00	1
+denovo525	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo524	Unassigned	1.00	1
+denovo527	Unassigned	1.00	1
+denovo526	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo521	Unassigned	1.00	1
+denovo520	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo523	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	1.00	3
+denovo522	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo529	Unassigned	1.00	1
+denovo528	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo1208	Unassigned	1.00	1
+denovo1209	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo1202	Unassigned	1.00	1
+denovo1203	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo1200	Unassigned	1.00	1
+denovo1201	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Phascolarctobacterium; s__	0.67	3
+denovo1206	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo1207	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1204	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa	0.67	3
+denovo1205	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	0.67	3
+denovo411	Unassigned	1.00	1
+denovo410	Unassigned	1.00	1
+denovo413	Unassigned	1.00	1
+denovo412	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+denovo415	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium	0.67	3
+denovo414	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo417	Unassigned	1.00	1
+denovo416	Unassigned	1.00	1
+denovo419	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo418	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo639	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo638	Unassigned	1.00	1
+denovo631	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+denovo630	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo633	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo632	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo635	Unassigned	1.00	1
+denovo634	Unassigned	1.00	1
+denovo637	Unassigned	1.00	1
+denovo636	Unassigned	1.00	1
+denovo943	Unassigned	1.00	1
+denovo942	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo941	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo940	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	2
+denovo947	Unassigned	1.00	1
+denovo946	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo945	Unassigned	1.00	1
+denovo944	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo949	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+denovo948	Unassigned	1.00	1
+denovo895	Unassigned	1.00	1
+denovo894	Unassigned	1.00	1
+denovo897	Unassigned	1.00	1
+denovo896	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo891	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo890	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo893	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo892	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	1.00	3
+denovo899	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+denovo898	Unassigned	1.00	1
+denovo378	Unassigned	1.00	1
+denovo18	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo19	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo1149	Unassigned	1.00	1
+denovo1148	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales	1.00	3
+denovo379	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo12	Unassigned	1.00	1
+denovo1144	Unassigned	1.00	1
+denovo1147	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo1146	Unassigned	1.00	1
+denovo16	Unassigned	1.00	1
+denovo1068	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+denovo14	Unassigned	1.00	1
+denovo15	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo1069	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus	0.67	3
+denovo1309	Unassigned	1.00	1
+denovo478	Unassigned	1.00	1
+denovo1365	Unassigned	1.00	1
+denovo1364	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo1366	Unassigned	1.00	1
+denovo1361	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__	0.67	3
+denovo1360	Unassigned	1.00	1
+denovo318	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo319	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo316	Unassigned	1.00	1
+denovo317	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo314	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo315	Unassigned	1.00	1
+denovo312	Unassigned	1.00	1
+denovo313	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo310	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia	0.67	3
+denovo311	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+denovo536	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+denovo537	Unassigned	1.00	1
+denovo534	Unassigned	1.00	1
+denovo535	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+denovo532	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo533	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo530	Unassigned	1.00	1
+denovo531	Unassigned	1.00	1
+denovo458	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+denovo538	Unassigned	1.00	1
+denovo539	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1219	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Eubacteriaceae; g__Pseudoramibacter_Eubacterium; s__	1.00	3
+denovo1218	Unassigned	1.00	1
+denovo1211	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+denovo1210	Unassigned	1.00	1
+denovo1213	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo1212	Unassigned	1.00	1
+denovo1215	Unassigned	1.00	1
+denovo1214	Unassigned	1.00	1
+denovo1217	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo1216	Unassigned	1.00	1
+denovo402	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo403	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+denovo400	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo401	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+denovo406	Unassigned	1.00	1
+denovo407	Unassigned	1.00	1
+denovo404	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+denovo405	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo408	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+denovo409	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus	0.67	3
+denovo628	Unassigned	1.00	1
+denovo629	Unassigned	1.00	1
+denovo622	Unassigned	1.00	1
+denovo623	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+denovo620	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo621	Unassigned	1.00	1
+denovo626	Unassigned	1.00	1
+denovo627	Unassigned	1.00	1
+denovo624	Unassigned	1.00	1
+denovo625	Unassigned	1.00	1
+denovo954	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo955	Unassigned	1.00	1
+denovo956	Unassigned	1.00	1
+denovo957	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+denovo950	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+denovo951	Unassigned	1.00	1
+denovo952	Unassigned	1.00	1
+denovo953	Unassigned	1.00	1
+denovo958	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+denovo959	Unassigned	1.00	1
