@@ -1,0 +1,113 @@
+infant (primary key) ,infant_number,gestational_age,gender,birth_mode,Weight (g),Survived?,birthdate,season,NEC,antibiotics_taken,diseases,feeding,maternal_disease,sepsis
+N1_003,3,26,F,C-section,822,Y,11/20/11,autumn,FALSE,['ampicillin' 'gentamycin' 'vancomycin' 'cefazolin'],['cellulitis' 'sepsis'],Breast,FALSE,TRUE
+N1_004,4,32,F,C-section,1450,Y,12/7/11,autumn,FALSE,['ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N1_008,8,32,F,Vaginal,1230,Y,12/7/11,autumn,TRUE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'cefazolin'],['NEC'],Formula,FALSE,FALSE
+N1_009,9,29,M,C-section,1820,Y,12/26/11,winter,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N1_011,11,26,M,C-section,523,Y,1/2/12,winter,TRUE,"['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'cefazolin' 'zosyn'
+  'clindamycin']",['NEC' 'sepsis'],Combination,FALSE,TRUE
+N1_014,14,32,M,Vaginal,2035,Y,1/22/12,winter,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N1_017,17,26,F,Vaginal,748,N,2/3/12,winter,TRUE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'cefazolin'],['NEC' 'sepsis'],Combination,FALSE,TRUE
+N1_018,18,29,M,C-section,1133,Y,2/12/12,winter,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N1_019,19,24,F,C-section,731,Y,2/13/12,winter,FALSE,"['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan' 'cefepime'
+  'nafcillin']",['enterobacter' 'tracheal infection' 'sepsis'],Combination,FALSE,TRUE
+N1_021,21,24,F,C-section,697,N,2/19/12,winter,TRUE,['unknown' 'ampicillin' 'gentamycin' 'cefazolin'],['NEC' 'tracheal infection' 'sepsis'],Breast,FALSE,TRUE
+N1_023,23,27,F,Vaginal,875,Y,2/19/12,winter,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Breast,FALSE,TRUE
+N2_031,31,26,M,C-section,773,Y,2/28/12,winter,FALSE,"['unknown' 'ampicillin' 'gentamycin' 'claforan' 'vancomycin' 'cefazolin'
+  'fluconazole']",['tracheal infection' 'gastric perforation' 'sepsis' 'chorioamnionitis'],Combination,TRUE,TRUE
+N2_035,35,25,M,Vaginal,795,Y,5/3/12,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+N2_038,38,30,F,C-section,1381,Y,5/24/12,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],['chorioamnionitis'],Combination,TRUE,FALSE
+N2_039,39,30,F,C-section,1470,Y,5/26/12,spring,TRUE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['NEC' 'chorioamnionitis'],Combination,TRUE,FALSE
+N2_060,60,30,M,C-section,1878,Y,5/26/12,spring,FALSE,['ampicillin' 'gentamycin'],['pre-eclampsia'],Combination,TRUE,FALSE
+N2_061,61,28,M,Vaginal,1184,Y,9/17/12,summer,TRUE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan' 'clindamycin'],['NEC' 'sepsis' 'chorioamnionitis'],Combination,TRUE,TRUE
+N2_064,64,28,M,Vaginal,1100,Y,9/18/12,summer,FALSE,['unknown' 'ampicillin' 'gentamycin' 'acyclovir'],['HSV'],Combination,FALSE,FALSE
+N2_065,65,25,F,Vaginal,841,Y,10/7/12,autumn,FALSE,['ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['abdominal distention' 'PICC' 'chorioamnionitis'],Combination,TRUE,FALSE
+N2_066,66,28,F,Vaginal,1028,Y,10/13/12,autumn,FALSE,['ampicillin' 'gentamycin' 'claforan'],['conjunctivitis' 'bradycardia'],Breast,FALSE,FALSE
+N2_069,69,26,M,C-section,637,Y,10/14/12,autumn,TRUE,"['unknown' 'ampicillin' 'gentamycin' 'amoxicillin' 'vancomycin' 'claforan'
+  'clindamycin']",['NEC' 'thc toxocology screen' 'sickle cell b' 'surgery'],Combination,TRUE,FALSE
+N2_070,70,26,F,C-section,633,Y,11/5/12,autumn,FALSE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['sepsis' 'abdominal distention' 'thc toxocology screen'],Combination,TRUE,TRUE
+N2_071,71,25,M,C-section,754,N,11/5/12,autumn,TRUE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan' 'clindamycin'],['NEC' 'PICC' 'chorioamnionitis' 'foul smelling stool' 'paracentesis'],Combination,TRUE,FALSE
+N2_088,88,28,F,C-section,1057,Y,11/7/12,autumn,FALSE,['gentamycin' 'ampicillin'],[],Formula,FALSE,FALSE
+N2_093,93,26,M,C-section,924,N,12/18/12,autumn,TRUE,"['penicillin' 'azithromycin' 'ampicillin' 'gentamycin' 'vancomycin'
+  'claforan']",['NEC' 'chlamydia' 'GBS' 'chorioamnionitis'],Breast,TRUE,FALSE
+N3_172,172,28,M,C-section,1254,Y,12/18/12,autumn,TRUE,['unknown' 'ampicillin' 'gentamycin' 'claforan' 'vancomycin'],['NEC'],Breast,FALSE,FALSE
+N3_173,173,29,M,C-section,1531,Y,12/18/12,autumn,TRUE,['ampicillin' 'gentamycin' 'claforan'],['NEC'],Breast,FALSE,FALSE
+N3_174,174,30,F,C-section,976,Y,1/22/13,winter,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Breast,FALSE,TRUE
+N3_175,175,29,M,Vaginal,1483,Y,1/22/13,winter,TRUE,['gentamycin' 'ampicillin' 'claforan'],['NEC'],Combination,FALSE,FALSE
+N3_176,176,28,M,C-section,998,Y,1/23/13,winter,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+N3_177,177,28,F,Vaginal,896,Y,2/14/13,winter,FALSE,['unknown' 'gentamycin' 'ampicillin' 'vancomycin' 'claforan'],['apnea' 'bradycardia'],Combination,FALSE,FALSE
+N3_178,178,32,M,Vaginal,2046,Y,2/28/13,winter,TRUE,['unknown' 'ampicillin' 'gentamycin' 'claforan' 'vancomycin'],['bloody stool' 'NEC'],Combination,FALSE,FALSE
+N3_182,182,39,M,C-section,3005,Y,2/28/13,winter,TRUE,['unknown' 'ampicillin' 'claforan'],['NEC'],Combination,FALSE,FALSE
+N3_183,183,29,M,Vaginal,1436,Y,3/4/13,winter,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_005,5,32,F,C-section,1411,Y,3/8/13,winter,FALSE,['ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_079,79,30,M,C-section,1694,Y,3/8/13,winter,FALSE,['ampicillin' 'gentamycin' 'claforan'],['sepsis'],Breast,FALSE,TRUE
+N4_082,82,31,M,C-section,1570,Y,3/25/13,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_083,83,31,M,C-section,1504,Y,3/26/13,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_087,87,29,F,Vaginal,1163,Y,3/27/13,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Breast,FALSE,FALSE
+N4_089,89,28,F,C-section,1013,Y,3/31/13,spring,FALSE,['gentamycin' 'ampicillin'],['sepsis'],Formula,FALSE,TRUE
+N4_094,94,30,M,C-section,1092,Y,6/26/13,summer,FALSE,[],[],Breast,FALSE,FALSE
+N4_095,95,29,F,C-section,1237,Y,7/20/13,summer,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Breast,FALSE,TRUE
+N4_097,97,30,M,Vaginal,1482,Y,7/20/13,summer,TRUE,['ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['NEC'],Combination,FALSE,FALSE
+N4_100,100,25,F,Vaginal,713,N,7/20/13,summer,TRUE,['ampicillin' 'gentamycin' 'claforan' 'vancomycin'],['cellulitis' 'NEC' 'MRSA'],Breast,FALSE,FALSE
+N4_101,101,25,F,Vaginal,733,Y,9/8/13,summer,FALSE,['ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['bradycardia' 'sepsis'],Breast,FALSE,TRUE
+N4_103,103,31,F,Vaginal,1556,Y,9/22/13,summer,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Formula,FALSE,TRUE
+N4_104,104,28,F,C-section,1335,Y,9/24/13,autumn,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+N4_105,105,28,M,C-section,1066,Y,10/1/13,autumn,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+N4_106,106,27,F,C-section,983,Y,10/2/13,autumn,TRUE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['sepsis' 'NEC'],Formula,FALSE,TRUE
+N4_107,107,28,M,C-section,1270,Y,10/2/13,autumn,FALSE,['ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_114,114,30,F,C-section,1408,Y,11/4/13,autumn,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_115,115,30,M,C-section,1427,Y,11/4/13,autumn,TRUE,['ampicillin' 'gentamycin'],['NEC'],Combination,FALSE,FALSE
+N4_116,116,30,F,C-section,855,Y,11/13/13,autumn,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_124,124,29,F,Vaginal,1376,Y,11/17/13,autumn,TRUE,['ampicillin' 'gentamycin' 'claforan'],['NEC'],Combination,FALSE,FALSE
+N4_125,125,30,M,C-section,1249,Y,11/17/13,autumn,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+N4_126,126,30,F,C-section,755,Y,11/19/13,autumn,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_128,128,30,M,C-section,1773,Y,1/30/14,winter,FALSE,['gentamycin' 'ampicillin'],[],Formula,FALSE,FALSE
+N4_129,129,29,M,C-section,988,Y,1/30/14,winter,FALSE,['gentamycin' 'ampicillin'],[],Combination,FALSE,FALSE
+N4_131,131,31,F,Vaginal,2098,Y,1/30/14,winter,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_137,137,32,F,C-section,2104,Y,2/5/14,winter,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_138,138,32,F,C-section,2014,Y,2/5/14,winter,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_139,139,30,F,Vaginal,1530,Y,3/15/14,winter,FALSE,['ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_140,140,29,M,Vaginal,1322,Y,3/15/14,winter,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_141,141,30,F,C-section,1349,Y,4/5/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_142,142,30,F,C-section,1595,Y,4/5/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_150,150,31,M,C-section,1430,Y,4/5/14,spring,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_151,151,31,F,C-section,1594,Y,4/20/14,spring,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_152,152,31,M,C-section,1639,Y,4/25/14,spring,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_154,154,31,M,Vaginal,1267,Y,4/25/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_155,155,31,M,Vaginal,1456,Y,5/1/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_159,159,27,M,C-section,908,Y,5/14/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin' 'claforan'],['sepsis'],Formula,FALSE,TRUE
+N4_160,160,27,F,C-section,910,Y,5/18/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Formula,FALSE,TRUE
+N4_165,165,24,F,C-section,781,Y,5/19/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Formula,FALSE,TRUE
+N4_166,166,26,F,C-section,815,Y,5/24/14,spring,FALSE,['ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['meningitis' 'sepsis'],Breast,FALSE,TRUE
+N4_167,167,26,F,C-section,834,Y,5/30/14,spring,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Breast,FALSE,TRUE
+N4_168,168,26,F,C-section,774,Y,6/17/14,spring,FALSE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['sepsis'],Combination,FALSE,TRUE
+N4_170,170,28,F,C-section,1344,Y,6/21/14,summer,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+N4_171,171,27,M,C-section,623,Y,6/22/14,summer,FALSE,['ampicillin' 'gentamycin' 'vancomycin' 'claforan' 'ofloxacin'],['bloody stool' 'acinetobacter anitratus' 'sepsis'],Combination,FALSE,TRUE
+N4_179,179,26,F,C-section,854,Y,6/22/14,summer,FALSE,['ampicillin' 'gentamycin' 'claforan' 'vancomycin'],['sepsis'],Combination,FALSE,TRUE
+N4_180,180,26,F,C-section,935,Y,6/29/14,summer,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_188,188,29,F,C-section,1249,Y,7/13/14,summer,FALSE,['unknown' 'ampicillin' 'gentamycin'],['sepsis'],Formula,FALSE,TRUE
+N4_189,189,30,F,C-section,1469,Y,7/18/14,summer,FALSE,['ampicillin' 'gentamycin'],[],Breast,FALSE,FALSE
+N4_205,205,28,F,C-section,1048,Y,9/26/14,autumn,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_206,206,28,F,C-section,550,Y,9/26/14,autumn,FALSE,['ampicillin' 'gentamycin'],[],Breast,FALSE,FALSE
+N4_207,207,29,F,C-section,1137,Y,9/27/14,autumn,TRUE,['ampicillin' 'gentamycin' 'vancomycin' 'claforan' 'clindamycin'],['NEC'],Combination,FALSE,FALSE
+N4_208,208,29,M,C-section,1382,Y,9/27/14,autumn,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+N4_210,210,32,M,C-section,1820,Y,10/8/14,autumn,FALSE,['ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_211,211,32,F,C-section,1747,Y,10/8/14,autumn,FALSE,['ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_212,212,32,M,C-section,1242,Y,10/8/14,autumn,FALSE,['ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+N4_213,213,30,M,Vaginal,1331,Y,10/20/14,autumn,TRUE,['unknown' 'ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['fever' 'NEC'],Combination,FALSE,FALSE
+N4_214,214,30,F,C-section,1361,Y,10/20/14,autumn,FALSE,['unknown' 'ampicillin' 'gentamycin'],[],Formula,FALSE,FALSE
+S2_001,501,28,M,Vaginal,2847,Y,11/3/13,autumn,FALSE,['ampicillin' 'gentamycin'],['tracheal infection' 'sepsis'],Formula,FALSE,TRUE
+S2_002,502,29,F,C-section,734,Y,11/17/13,autumn,TRUE,['ampicillin' 'gentamycin'],['sepsis' 'NEC'],Combination,FALSE,TRUE
+S2_003,503,30,M,C-section,1544,Y,12/27/13,winter,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+S2_004,504,30,M,C-section,1138,Y,2/1/14,winter,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+S2_005,505,25,F,Vaginal,734,Y,2/20/14,winter,FALSE,['ampicillin' 'gentamycin'],['tracheal infection' 'sepsis'],Combination,FALSE,TRUE
+S2_006,506,30,M,C-section,1228,Y,3/23/14,spring,FALSE,['ampicillin' 'gentamycin'],['tracheal infection'],Combination,FALSE,FALSE
+S2_008,508,27,M,Vaginal,1023,Y,4/28/14,spring,FALSE,['ampicillin' 'gentamycin'],['tracheal infection' 'sepsis'],Combination,FALSE,TRUE
+S2_009,509,25,F,Vaginal,930,Y,5/19/14,spring,FALSE,['ampicillin' 'gentamycin'],['tracheal infection' 'sepsis'],Formula,FALSE,TRUE
+S2_010,510,32,M,C-section,1814,Y,6/23/14,summer,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+S2_011,511,26,M,Vaginal,928,Y,7/6/14,summer,FALSE,['ampicillin' 'gentamycin'],[],Breast,FALSE,FALSE
+S2_012,512,29,F,C-section,1210,Y,8/1/14,summer,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Breast,FALSE,TRUE
+S2_014,514,30,M,C-section,1200,Y,8/24/14,summer,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+S2_015,515,26,F,Vaginal,768,Y,9/7/14,summer,TRUE,['ampicillin' 'gentamycin' 'vancomycin' 'claforan'],['NEC' 'tracheal infection'],Formula,FALSE,FALSE
+S2_016,516,31,M,C-section,1319,Y,9/16/14,summer,FALSE,['ampicillin' 'gentamycin'],['sepsis'],Combination,FALSE,TRUE
+S2_017,517,27,F,C-section,1174,Y,10/16/14,autumn,FALSE,['ampicillin' 'gentamycin'],[],Combination,FALSE,FALSE
+S2_018,518,29,M,C-section,1393,Y,11/3/14,autumn,FALSE,['ampicillin' 'gentamycin'],['tracheal infection' 'sepsis'],Combination,FALSE,TRUE

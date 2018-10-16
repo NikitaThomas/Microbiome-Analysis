@@ -1,0 +1,1484 @@
+genome (infant # and sample in name),taxonomy
+conN1_003_000G1_concoct_10.fa,Clostridium baratii str. Sullivan
+conN1_003_000G1_concoct_12.fa,Streptococcus lutetiensis 033
+conN1_003_000G1_concoct_13.fa,Clostridium baratii str. Sullivan
+conN1_003_000G1_concoct_19.fa,Staphylococcus warneri SG1
+conN1_003_000G1_concoct_22.fa,Enterococcus casseliflavus EC20
+conN1_003_000G1_concoct_23.fa,Clostridium baratii str. Sullivan
+conN1_003_000G1_concoct_24.fa,Enterococcus faecium
+conN1_003_000G1_concoct_26.fa,Pelosinus fermentans JBW45
+conN1_003_000G1_concoct_3.fa,Corynebacterium simulans
+conN1_003_000G1_concoct_42.fa,Clostridium perfringens
+conN1_003_000G1_concoct_43.fa,Propionibacterium acnes
+conN1_003_000G1_concoct_48.fa,[Eubacterium rectale] ATCC 33656
+conN1_003_000G1_concoct_5.fa,Staphylococcus aureus
+conN1_003_011G1_concoct_15.fa,Enterococcus faecalis ATCC 29212
+conN1_003_019G1_concoct_7.fa,Propionibacterium avidum 44067
+conN1_003_019G1_concoct_8.fa,Pantoea sp. PSNIH2
+conN1_003_023G1_concoct_0.fa,Klebsiella pneumoniae
+conN1_003_023G1_concoct_10.fa,Staphylococcus epidermidis
+conN1_003_028G1_concoct_6.fa,Dermabacter vaginalis
+conN1_003_039G1_concoct_16.fa,Mobiluncus curtisii ATCC 43063
+conN1_003_052G1_concoct_12.fa,Actinomyces meyeri
+conN1_003_052G1_concoct_8.fa,Atopobium parvulum DSM 20469
+conN1_003_086G1_concoct_12.fa,Escherichia coli
+conN1_003_086G1_concoct_21.fa,Clostridioides difficile
+conN1_003_086G1_concoct_22.fa,Veillonella parvula DSM 2008
+conN1_003_086G1_concoct_3.fa,Clostridium butyricum
+conN1_004_000G1_concoct_19.fa,Clostridium botulinum
+conN1_004_000G1_concoct_1.fa,Staphylococcus epidermidis
+conN1_004_000G1_concoct_23.fa,Trueperella pyogenes
+conN1_004_000G1_concoct_31.fa,Atopobium parvulum DSM 20469
+conN1_004_000G1_concoct_9.fa,Pseudomonas aeruginosa
+conN1_004_009G1_concoct_7.fa,Staphylococcus haemolyticus
+conN1_004_015G1_concoct_0.fa,Clostridium baratii str. Sullivan
+conN1_004_016G1_concoct_4.fa,Veillonella parvula DSM 2008
+conN1_004_018G1_concoct_1.fa,Clostridioides difficile
+conN1_004_021G1_concoct_11.fa,Clostridioides difficile
+conN1_004_021G1_concoct_21.fa,Enterococcus hirae
+conN1_004_026G1_concoct_10.fa,Streptococcus salivarius
+conN1_004_026G1_concoct_2.fa,Leclercia adecarboxylata
+conN1_004_026G1_concoct_6.fa,Clostridioides difficile
+conN1_008_000G1_concoct_10.fa,Veillonella parvula DSM 2008
+conN1_008_000G1_concoct_23.fa,Clostridioides difficile
+conN1_008_000G1_concoct_5.fa,Pseudomonas aeruginosa
+conN1_008_010G1_concoct_13.fa,Escherichia coli
+conN1_008_028G1_concoct_0.fa,Enterococcus faecalis
+conN1_008_028G1_concoct_6.fa,Staphylococcus epidermidis
+conN1_008_028G1_concoct_9.fa,Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+conN1_008_031G1_concoct_33.fa,Bacteroides ovatus
+conN1_009_000G1_concoct_17.fa,Veillonella parvula DSM 2008
+conN1_009_000G1_concoct_22.fa,Clostridium perfringens
+conN1_009_000G1_concoct_2.fa,Clostridium butyricum
+conN1_009_000G1_concoct_35.fa,Clostridioides difficile
+conN1_009_000G1_concoct_36.fa,Roseburia hominis A2-183
+conN1_009_000G1_concoct_39.fa,Veillonella parvula DSM 2008
+conN1_009_000G1_concoct_40.fa,Neisseria meningitidis
+conN1_009_006G1_concoct_25.fa,Staphylococcus lugdunensis
+conN1_009_006G1_concoct_45.fa,Enterococcus faecalis
+conN1_009_007G1_concoct_17.fa,Staphylococcus haemolyticus
+conN1_009_007G1_concoct_18.fa,Clostridium perfringens
+conN1_009_008G1_concoct_6.fa,Streptococcus agalactiae
+conN1_009_011G1_concoct_9.fa,Staphylococcus epidermidis
+conN1_009_015G1_concoct_2.fa,Clostridium butyricum
+conN1_009_015G1_concoct_7.fa,Citrobacter freundii
+conN1_009_016G1_concoct_10.fa,Clostridium baratii str. Sullivan
+conN1_009_019G1_concoct_3.fa,Roseburia hominis A2-183
+conN1_009_020G1_concoct_1.fa,Klebsiella oxytoca
+conN1_009_024G1_concoct_9.fa,Clostridium butyricum
+conN1_009_038G1_concoct_10.fa,Streptococcus salivarius
+conN1_009_038G1_concoct_18.fa,Enterococcus faecalis D32
+conN1_009_045G1_concoct_8.fa,Haemophilus parainfluenzae T3T1
+conN1_009_045G1_concoct_9.fa,Clostridioides difficile
+conN1_011_000G1_concoct_2.fa,Pantoea vagans C9-1
+conN1_011_000G1_concoct_46.fa,Propionibacterium avidum 44067
+conN1_011_011G1_concoct_7.fa,Staphylococcus epidermidis
+conN1_011_013G1_concoct_1.fa,Veillonella parvula DSM 2008
+conN1_011_025G1_concoct_5.fa,Enterococcus faecalis
+conN1_011_051G1_concoct_10.fa,[Enterobacter] aerogenes
+conN1_014_000G1_concoct_10.fa,Clostridium baratii str. Sullivan
+conN1_014_000G1_concoct_12.fa,Corynebacterium simulans
+conN1_014_000G1_concoct_13.fa,Finegoldia magna ATCC 29328
+conN1_014_000G1_concoct_14.fa,Corynebacterium sp. ATCC 6931
+conN1_014_000G1_concoct_17.fa,Serratia marcescens
+conN1_014_000G1_concoct_18.fa,Staphylococcus haemolyticus
+conN1_014_000G1_concoct_22.fa,Clostridioides difficile
+conN1_014_000G1_concoct_27.fa,Streptococcus mitis
+conN1_014_006G1_concoct_0.fa,Pseudomonas aeruginosa
+conN1_014_006G1_concoct_6.fa,Dermabacter vaginalis
+conN1_014_006G1_concoct_9.fa,Paenibacillus sp. Y412MC10
+conN1_014_007G1_concoct_12.fa,Staphylococcus epidermidis
+conN1_014_008G1_concoct_14.fa,Staphylococcus warneri SG1
+conN1_014_009G1_concoct_2.fa,Gemella sp. oral taxon 928
+conN1_014_010G1_concoct_19.fa,Enterococcus faecalis D32
+conN1_014_012G1_concoct_16.fa,Veillonella parvula DSM 2008
+conN1_014_015G1_concoct_3.fa,Escherichia coli
+conN1_014_016G1_concoct_4.fa,Staphylococcus epidermidis
+conN1_017_000G1_concoct_26.fa,Megasphaera elsdenii 14-14
+conN1_017_009G1_concoct_13.fa,Corynebacterium simulans
+conN1_017_009G1_concoct_15.fa,Sneathia amnii
+conN1_017_010G1_concoct_19.fa,Staphylococcus epidermidis
+conN1_017_010G1_concoct_4.fa,Enterobacter cloacae complex sp. 35734
+conN1_017_011G1_concoct_13.fa,Klebsiella pneumoniae
+conN1_017_011G1_concoct_9.fa,Anaerococcus prevotii DSM 20548
+conN1_018_000G1_concoct_11.fa,Pseudomonas aeruginosa
+conN1_018_000G1_concoct_15.fa,Propionibacterium avidum 44067
+conN1_018_000G1_concoct_16.fa,Clostridium perfringens
+conN1_018_000G1_concoct_2.fa,Clostridioides difficile
+conN1_018_000G1_concoct_6.fa,Clostridium butyricum
+conN1_018_010G1_concoct_10.fa,Staphylococcus epidermidis
+conN1_018_011G1_concoct_3.fa,[Enterobacter] aerogenes
+conN1_018_014G1_concoct_6.fa,Enterobacter hormaechei subsp. oharae
+conN1_018_018G1_concoct_5.fa,Enterococcus faecalis D32
+conN1_018_019G1_concoct_3.fa,Finegoldia magna ATCC 29328
+conN1_018_037G1_concoct_10.fa,Klebsiella oxytoca
+conN1_019_000G1_concoct_0.fa,Bacteroides ovatus
+conN1_019_000G1_concoct_24.fa,Clostridium butyricum
+conN1_019_000G1_concoct_28.fa,Staphylococcus aureus subsp. aureus
+conN1_019_000G1_concoct_2.fa,Enterococcus gallinarum
+conN1_019_000G1_concoct_33.fa,Clostridium sporogenes
+conN1_019_000G1_concoct_34.fa,Clostridium baratii str. Sullivan
+conN1_019_000G1_concoct_8.fa,Clostridioides difficile
+conN1_019_012G1_concoct_13.fa,Corynebacterium simulans
+conN1_019_012G1_concoct_4.fa,Haemophilus parainfluenzae T3T1
+conN1_019_013G1_concoct_5.fa,Propionibacterium avidum 44067
+conN1_019_018G1_concoct_10.fa,Klebsiella oxytoca
+conN1_019_020G1_concoct_10.fa,Megasphaera elsdenii 14-14
+conN1_019_023G1_concoct_10.fa,Klebsiella oxytoca
+conN1_019_024G1_concoct_7.fa,Enterococcus faecalis V583
+conN1_019_026G1_concoct_5.fa,Staphylococcus epidermidis
+conN1_019_026G1_concoct_6.fa,Enterococcus faecium
+conN1_019_038G1_concoct_0.fa,Enterococcus faecalis
+conN1_019_057G1_concoct_6.fa,Veillonella parvula DSM 2008
+conN1_019_057G1_concoct_9.fa,Streptococcus anginosus
+conN1_021_000G1_concoct_24.fa,Megasphaera elsdenii 14-14
+conN1_021_000G1_concoct_2.fa,Propionibacterium acnes
+conN1_021_000G1_concoct_31.fa,Streptococcus anginosus
+conN1_021_000G1_concoct_5.fa,Clostridium sporogenes
+conN1_021_012G1_concoct_9.fa,Haemophilus parainfluenzae T3T1
+conN1_021_013G1_concoct_10.fa,Corynebacterium simulans
+conN1_021_013G1_concoct_14.fa,Anaerococcus prevotii DSM 20548
+conN1_021_013G1_concoct_1.fa,Staphylococcus aureus subsp. aureus
+conN1_021_015G1_concoct_7.fa,Staphylococcus epidermidis
+conN1_021_022G1_concoct_8.fa,Propionibacterium avidum 44067
+conN1_021_023G1_concoct_2.fa,Klebsiella oxytoca
+conN1_021_027G1_concoct_1.fa,Staphylococcus epidermidis
+conN1_021_030G1_concoct_2.fa,Enterococcus faecalis D32
+conN1_023_000G1_concoct_13.fa,Clostridium perfringens
+conN1_023_000G1_concoct_17.fa,Slackia heliotrinireducens DSM 20476
+conN1_023_000G1_concoct_23.fa,Eggerthella lenta DSM 2243
+conN1_023_000G1_concoct_29.fa,Proteus mirabilis HI4320
+conN1_023_000G1_concoct_32.fa,Staphylococcus epidermidis
+conN1_023_000G1_concoct_35.fa,Pseudomonas aeruginosa
+conN1_023_000G1_concoct_3.fa,Clostridioides difficile
+conN1_023_000G1_concoct_5.fa,Clostridium butyricum
+conN1_023_007G1_concoct_9.fa,synthetic construct
+conN1_023_013G1_concoct_10.fa,Klebsiella oxytoca
+conN1_023_013G1_concoct_12.fa,Haemophilus parainfluenzae T3T1
+conN1_023_013G1_concoct_6.fa,Staphylococcus aureus subsp. aureus
+conN1_023_015G1_concoct_9.fa,Enterococcus faecalis
+conN1_023_019G1_concoct_3.fa,Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+conN1_023_029G1_concoct_14.fa,Escherichia coli
+conN1_023_029G1_concoct_16.fa,Veillonella parvula DSM 2008
+conN1_023_029G1_concoct_18.fa,Bifidobacterium longum
+conN1_023_029G1_concoct_19.fa,Finegoldia magna ATCC 29328
+conN1_023_034G1_concoct_10.fa,Bacteroides ovatus
+conN1_023_034G1_concoct_11.fa,Bifidobacterium breve
+conN1_023_034G1_concoct_3.fa,Anaerococcus prevotii DSM 20548
+conN1_023_042G1_concoct_11.fa,Propionibacterium avidum 44067
+conN1_023_042G1_concoct_18.fa,Peptoniphilus sp. 1-1
+conN1_023_050G1_concoct_0.fa,Streptococcus suis
+conN1_023_050G1_concoct_12.fa,Lactobacillus rhamnosus
+conN1_023_050G1_concoct_13.fa,Finegoldia magna ATCC 29328
+conN1_023_055G1_concoct_10.fa,Megasphaera elsdenii 14-14
+conN1_023_055G1_concoct_23.fa,Roseburia hominis A2-183
+conN1_023_055G1_concoct_8.fa,Enterococcus faecium
+conN2_031_000G1_concoct_20.fa,Eggerthella lenta DSM 2243
+conN2_031_000G1_concoct_35.fa,Streptococcus agalactiae
+conN2_031_000G1_concoct_36.fa,Paenibacillus riograndensis SBR5
+conN2_031_000G1_concoct_39.fa,Veillonella parvula DSM 2008
+conN2_031_010G1_concoct_1.fa,Klebsiella pneumoniae
+conN2_031_014G1_concoct_1.fa,Staphylococcus epidermidis
+conN2_031_020G1_concoct_3.fa,Anaerococcus prevotii DSM 20548
+conN2_031_023G1_concoct_4.fa,Enterococcus faecalis
+conN2_035_000G1_concoct_12.fa,Bifidobacterium dentium JCM 1195 = DSM 20436
+conN2_035_000G1_concoct_1.fa,Cronobacter sakazakii
+conN2_035_000G1_concoct_30.fa,Bifidobacterium scardovii JCM 12489 = DSM 13734
+conN2_035_000G1_concoct_34.fa,Eggerthella lenta DSM 2243
+conN2_035_000G1_concoct_4.fa,Actinomyces sp. oral taxon 414
+conN2_035_000G1_concoct_5.fa,Klebsiella pneumoniae
+conN2_035_012G1_concoct_3.fa,Enterococcus faecalis
+conN2_035_016G1_concoct_9.fa,Staphylococcus epidermidis
+conN2_035_020G1_concoct_10.fa,Serratia marcescens
+conN2_035_020G1_concoct_12.fa,Streptococcus agalactiae
+conN2_035_025G1_concoct_0.fa,Veillonella parvula DSM 2008
+conN2_035_025G1_concoct_22.fa,Atopobium parvulum DSM 20469
+conN2_035_025G1_concoct_23.fa,Clostridioides difficile
+conN2_035_032G1_concoct_14.fa,Bifidobacterium bifidum
+conN2_035_032G1_concoct_6.fa,Propionibacterium avidum 44067
+conN2_035_046G1_concoct_17.fa,Veillonella parvula DSM 2008
+conN2_035_053G1_concoct_10.fa,Escherichia coli
+conN2_035_053G1_concoct_15.fa,Clostridium perfringens
+conN2_035_053G1_concoct_20.fa,Clostridioides difficile
+conN2_038_000G1_concoct_14.fa,Acinetobacter nosocomialis
+conN2_038_000G1_concoct_16.fa,Staphylococcus haemolyticus JCSC1435
+conN2_038_000G1_concoct_31.fa,Clostridium butyricum
+conN2_038_000G1_concoct_35.fa,Fusobacterium nucleatum subsp. polymorphum
+conN2_038_000G1_concoct_38.fa,Peptoniphilus sp. 1-1
+conN2_038_000G1_concoct_43.fa,Clostridioides difficile
+conN2_038_000G1_concoct_4.fa,Clostridium perfringens
+conN2_038_000G1_concoct_9.fa,Enterococcus faecium
+conN2_038_009G1_concoct_6.fa,Enterococcus faecalis
+conN2_038_009G1_concoct_8.fa,Veillonella parvula DSM 2008
+conN2_038_011G1_concoct_16.fa,Citrobacter freundii
+conN2_038_011G1_concoct_6.fa,Haemophilus parainfluenzae T3T1
+conN2_038_011G1_concoct_9.fa,Staphylococcus epidermidis
+conN2_038_013G1_concoct_9.fa,Streptococcus parasanguinis ATCC 15912
+conN2_038_015G1_concoct_28.fa,Pantoea sp. PSNIH2
+conN2_038_018G1_concoct_8.fa,Propionibacterium avidum 44067
+conN2_038_020G1_concoct_5.fa,Haemophilus parainfluenzae T3T1
+conN2_038_020G1_concoct_6.fa,Finegoldia magna ATCC 29328
+conN2_038_026G1_concoct_21.fa,Veillonella parvula DSM 2008
+conN2_038_030G1_concoct_24.fa,Enterococcus casseliflavus EC20
+conN2_038_036G1_concoct_16.fa,Clostridioides difficile
+conN2_038_036G1_concoct_5.fa,Clostridium baratii str. Sullivan
+conN2_038_044G1_concoct_15.fa,Anaerococcus prevotii DSM 20548
+conN2_039_000G1_concoct_18.fa,Clostridium butyricum
+conN2_039_000G1_concoct_27.fa,Finegoldia magna ATCC 29328
+conN2_039_000G1_concoct_29.fa,Neisseria meningitidis
+conN2_039_000G1_concoct_35.fa,Clostridioides difficile
+conN2_039_000G1_concoct_39.fa,Acinetobacter nosocomialis
+conN2_039_000G1_concoct_3.fa,Lactobacillus fermentum IFO 3956
+conN2_039_000G1_concoct_55.fa,Actinomyces meyeri
+conN2_039_008G1_concoct_30.fa,Haemophilus parainfluenzae T3T1
+conN2_039_008G1_concoct_33.fa,Veillonella parvula DSM 2008
+conN2_039_008G1_concoct_3.fa,Staphylococcus epidermidis
+conN2_039_011G1_concoct_12.fa,Streptococcus salivarius
+conN2_039_011G1_concoct_29.fa,Pantoea sp. PSNIH2
+conN2_039_011G1_concoct_3.fa,Enterococcus faecalis
+conN2_039_013G1_concoct_29.fa,Plautia stali symbiont
+conN2_039_013G1_concoct_3.fa,Finegoldia magna ATCC 29328
+conN2_039_015G1_concoct_11.fa,Propionibacterium avidum 44067
+conN2_039_018G1_concoct_23.fa,Lactobacillus rhamnosus LOCK900
+conN2_039_018G1_concoct_8.fa,Clostridium baratii str. Sullivan
+conN2_039_020G1_concoct_17.fa,Streptococcus parasanguinis FW213
+conN2_039_021G1_concoct_21.fa,Streptococcus suis
+conN2_039_037G1_concoct_11.fa,Enterococcus faecium T110
+conN2_039_044G1_concoct_19.fa,Enterococcus faecium
+conN2_039_044G1_concoct_25.fa,Streptococcus salivarius
+conN2_039_044G1_concoct_2.fa,Citrobacter freundii
+conN2_060_000G1_concoct_16.fa,Clostridium perfringens
+conN2_060_000G1_concoct_3.fa,Veillonella parvula DSM 2008
+conN2_060_000G1_concoct_7.fa,Pseudomonas aeruginosa
+conN2_060_008G1_concoct_15.fa,Staphylococcus epidermidis
+conN2_060_008G1_concoct_7.fa,Enterobacteriaceae bacterium strain FGI 57
+conN2_060_009G1_concoct_20.fa,Enterococcus faecalis
+conN2_060_011G1_concoct_3.fa,Klebsiella pneumoniae
+conN2_060_013G1_concoct_12.fa,Enterococcus faecium
+conN2_060_013G1_concoct_17.fa,Veillonella parvula DSM 2008
+conN2_060_013G1_concoct_21.fa,Klebsiella pneumoniae
+conN2_060_013G1_concoct_24.fa,Bifidobacterium breve
+conN2_060_016G1_concoct_8.fa,Escherichia coli
+conN2_060_019G1_concoct_15.fa,Clostridioides difficile
+conN2_060_019G1_concoct_9.fa,Clostridium baratii str. Sullivan
+conN2_060_020G1_concoct_32.fa,Streptococcus salivarius
+conN2_061_000G1_concoct_14.fa,Pseudomonas aeruginosa
+conN2_061_007G1_concoct_4.fa,Enterococcus faecalis
+conN2_061_007G1_concoct_6.fa,Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+conN2_061_008G1_concoct_8.fa,Staphylococcus epidermidis
+conN2_061_021G1_concoct_12.fa,Enterobacter cloacae
+conN2_061_025G1_concoct_25.fa,Citrobacter sp. FDAARGOS_156
+conN2_061_082G1_concoct_12.fa,Enterococcus faecium T110
+conN2_061_082G1_concoct_7.fa,Clostridium perfringens
+conN2_064_000G1_concoct_15.fa,Clostridium baratii str. Sullivan
+conN2_064_000G1_concoct_16.fa,Peptoniphilus sp. 1-1
+conN2_064_000G1_concoct_23.fa,Pseudomonas aeruginosa
+conN2_064_000G1_concoct_2.fa,[Clostridium] saccharolyticum WM1
+conN2_064_000G1_concoct_33.fa,Streptococcus salivarius
+conN2_064_000G1_concoct_34.fa,Clostridioides difficile
+conN2_064_000G1_concoct_3.fa,Slackia heliotrinireducens DSM 20476
+conN2_064_000G1_concoct_49.fa,Actinomyces meyeri
+conN2_064_000G1_concoct_53.fa,Finegoldia magna ATCC 29328
+conN2_064_000G1_concoct_7.fa,Clostridium perfringens
+conN2_064_011G1_concoct_15.fa,Staphylococcus epidermidis
+conN2_064_016G1_concoct_12.fa,Finegoldia magna ATCC 29328
+conN2_064_016G1_concoct_4.fa,Citrobacter freundii
+conN2_064_025G1_concoct_11.fa,Streptococcus parasanguinis FW213
+conN2_064_025G1_concoct_12.fa,Veillonella parvula DSM 2008
+conN2_064_027G1_concoct_12.fa,Propionibacterium avidum 44067
+conN2_064_027G1_concoct_1.fa,Streptococcus salivarius
+conN2_064_031G1_concoct_13.fa,Klebsiella pneumoniae
+conN2_064_031G1_concoct_17.fa,Streptococcus salivarius
+conN2_064_031G1_concoct_25.fa,Anaerococcus prevotii DSM 20548
+conN2_064_036G1_concoct_13.fa,Streptococcus parasanguinis ATCC 15912
+conN2_064_036G1_concoct_25.fa,Bifidobacterium scardovii JCM 12489 = DSM 13734
+conN2_064_036G1_concoct_30.fa,Atopobium parvulum DSM 20469
+conN2_064_036G1_concoct_5.fa,Enterococcus faecalis
+conN2_064_043G1_concoct_10.fa,Megasphaera elsdenii 14-14
+conN2_064_043G1_concoct_13.fa,Mobiluncus curtisii ATCC 43063
+conN2_064_043G1_concoct_4.fa,Roseburia hominis A2-183
+conN2_065_000G1_concoct_0.fa,Finegoldia magna ATCC 29328
+conN2_065_000G1_concoct_15.fa,Anaerococcus prevotii DSM 20548
+conN2_065_000G1_concoct_21.fa,Anaerococcus prevotii DSM 20548
+conN2_065_000G1_concoct_9.fa,Finegoldia magna ATCC 29328
+conN2_065_008G1_concoct_12.fa,Klebsiella pneumoniae
+conN2_065_011G1_concoct_5.fa,Pseudomonas aeruginosa
+conN2_065_019G1_concoct_18.fa,Bifidobacterium breve
+conN2_065_046G1_concoct_18.fa,Propionibacterium avidum 44067
+conN2_065_052G1_concoct_1.fa,Finegoldia magna ATCC 29328
+conN2_065_052G1_concoct_5.fa,Escherichia coli
+conN2_065_052G1_concoct_9.fa,Enterococcus faecalis D32
+conN2_065_059G1_concoct_13.fa,Anaerococcus prevotii DSM 20548
+conN2_065_059G1_concoct_15.fa,Veillonella parvula DSM 2008
+conN2_065_059G1_concoct_1.fa,Mobiluncus curtisii ATCC 43063
+conN2_065_059G1_concoct_3.fa,Trueperella pyogenes
+conN2_065_059G1_concoct_8.fa,Clostridioides difficile
+conN2_066_009G1_concoct_2.fa,Pantoea vagans C9-1
+conN2_066_009G1_concoct_4.fa,Staphylococcus epidermidis
+conN2_066_011G1_concoct_4.fa,Serratia liquefaciens
+conN2_066_013G1_concoct_0.fa,Staphylococcus epidermidis
+conN2_066_017G1_concoct_2.fa,Enterobacter cloacae
+conN2_066_017G1_concoct_8.fa,Clostridium perfringens
+conN2_066_019G1_concoct_15.fa,Veillonella parvula DSM 2008
+conN2_066_021G1_concoct_11.fa,Propionibacterium avidum 44067
+conN2_066_031G1_concoct_4.fa,Enterococcus faecalis ATCC 29212
+conN2_066_031G1_concoct_5.fa,Clostridium baratii str. Sullivan
+conN2_066_031G1_concoct_6.fa,Clostridium perfringens
+conN2_066_033G1_concoct_0.fa,Megasphaera elsdenii 14-14
+conN2_066_033G1_concoct_4.fa,Enterobacter cloacae complex sp. 35734
+conN2_066_048G1_concoct_0.fa,Veillonella parvula DSM 2008
+conN2_066_060G1_concoct_15.fa,Enterococcus faecium
+conN2_066_060G1_concoct_5.fa,Finegoldia magna ATCC 29328
+conN2_066_060G1_concoct_6.fa,Roseburia hominis A2-183
+conN2_066_064G1_concoct_22.fa,Actinomyces sp. oral taxon 414
+conN2_066_064G1_concoct_6.fa,Clostridium perfringens
+conN2_069_000G1_concoct_13.fa,Enterococcus faecalis DENG1
+conN2_069_000G1_concoct_24.fa,Megasphaera elsdenii 14-14
+conN2_069_000G1_concoct_32.fa,Klebsiella pneumoniae
+conN2_069_000G1_concoct_39.fa,Staphylococcus epidermidis
+conN2_069_000G1_concoct_3.fa,Anaerococcus prevotii DSM 20548
+conN2_069_018G1_concoct_8.fa,Enterobacter cloacae complex sp. 35734
+conN2_069_028G1_concoct_12.fa,Escherichia coli
+conN2_069_028G1_concoct_7.fa,Finegoldia magna ATCC 29328
+conN2_069_028G1_concoct_8.fa,Propionibacterium avidum 44067
+conN2_070_000G1_concoct_12.fa,Staphylococcus warneri SG1
+conN2_070_000G1_concoct_15.fa,Finegoldia magna ATCC 29328
+conN2_070_000G1_concoct_31.fa,Campylobacter ureolyticus RIGS 9880
+conN2_070_000G1_concoct_39.fa,Intestinimonas butyriciproducens
+conN2_070_000G1_concoct_43.fa,Blautia sp. YL58
+conN2_070_000G1_concoct_6.fa,Staphylococcus haemolyticus JCSC1435
+conN2_070_016G1_concoct_12.fa,Corynebacterium simulans
+conN2_070_016G1_concoct_23.fa,Bacillus thuringiensis
+conN2_070_019G1_concoct_1.fa,Enterobacter cloacae complex sp. 35734
+conN2_070_019G1_concoct_6.fa,synthetic construct
+conN2_070_027G1_concoct_11.fa,Propionibacterium avidum 44067
+conN2_070_027G1_concoct_15.fa,Staphylococcus epidermidis
+conN2_070_027G1_concoct_8.fa,Enterococcus faecalis ATCC 29212
+conN2_070_030G1_concoct_17.fa,Enterococcus faecium
+conN2_070_030G1_concoct_20.fa,Klebsiella pneumoniae
+conN2_070_036G1_concoct_10.fa,Anaerococcus prevotii DSM 20548
+conN2_070_036G1_concoct_13.fa,Eggerthella lenta DSM 2243
+conN2_070_036G1_concoct_24.fa,Anaerococcus prevotii DSM 20548
+conN2_070_036G1_concoct_25.fa,Corynebacterium atypicum
+conN2_070_036G1_concoct_3.fa,Propionibacterium avidum 44067
+conN2_070_036G1_concoct_7.fa,Finegoldia magna ATCC 29328
+conN2_070_036G1_concoct_9.fa,Megasphaera elsdenii 14-14
+conN2_070_042G1_concoct_15.fa,Enterobacter hormaechei subsp. oharae
+conN2_070_042G1_concoct_2.fa,Klebsiella oxytoca
+conN2_070_057G1_concoct_22.fa,Finegoldia magna ATCC 29328
+conN2_070_057G1_concoct_26.fa,Anaerococcus prevotii DSM 20548
+conN2_070_060G1_concoct_9.fa,Finegoldia magna ATCC 29328
+conN2_071_000G1_concoct_40.fa,Atopobium parvulum DSM 20469
+conN2_071_000G1_concoct_45.fa,Prevotella melaninogenica ATCC 25845
+conN2_071_008G1_concoct_4.fa,Bifidobacterium scardovii JCM 12489 = DSM 13734
+conN2_071_008G1_concoct_5.fa,Staphylococcus epidermidis
+conN2_071_010G1_concoct_7.fa,Klebsiella pneumoniae
+conN2_071_010G1_concoct_8.fa,Enterococcus faecium T110
+conN2_071_013G1_concoct_14.fa,Propionibacterium avidum 44067
+conN2_071_013G1_concoct_7.fa,Staphylococcus epidermidis
+conN2_071_017G1_concoct_8.fa,Megasphaera elsdenii 14-14
+conN2_071_019G1_concoct_22.fa,Finegoldia magna ATCC 29328
+conN2_071_019G1_concoct_27.fa,Finegoldia magna ATCC 29328
+conN2_071_019G1_concoct_32.fa,Megasphaera elsdenii 14-14
+conN2_071_025G1_concoct_6.fa,Clostridioides difficile
+conN2_071_025G1_concoct_7.fa,Selenomonas sputigena ATCC 35185
+conN2_071_027G1_concoct_23.fa,Veillonella parvula DSM 2008
+conN2_071_027G1_concoct_25.fa,Escherichia coli
+conN2_071_027G1_concoct_28.fa,Mobiluncus curtisii ATCC 43063
+conN2_071_027G1_concoct_3.fa,Finegoldia magna ATCC 29328
+conN2_071_029G1_concoct_2.fa,Bifidobacterium dentium Bd1
+conN2_071_030G1_concoct_3.fa,Enterococcus faecalis
+conN2_071_030G1_concoct_6.fa,Bifidobacterium bifidum
+conN2_088_000G1_concoct_11.fa,Enterococcus faecalis
+conN2_088_000G1_concoct_12.fa,Atopobium parvulum DSM 20469
+conN2_088_000G1_concoct_1.fa,Streptococcus salivarius
+conN2_088_000G1_concoct_20.fa,Streptococcus agalactiae
+conN2_088_000G1_concoct_24.fa,Trueperella pyogenes
+conN2_088_000G1_concoct_27.fa,Mobiluncus curtisii ATCC 43063
+conN2_088_000G1_concoct_6.fa,Lactobacillus rhamnosus
+conN2_088_000G1_concoct_7.fa,Clostridioides difficile
+conN2_088_000G1_concoct_8.fa,Clostridium baratii str. Sullivan
+conN2_088_008G1_concoct_10.fa,Staphylococcus haemolyticus
+conN2_088_008G1_concoct_26.fa,Finegoldia magna ATCC 29328
+conN2_088_010G1_concoct_19.fa,Veillonella parvula DSM 2008
+conN2_088_010G1_concoct_9.fa,Klebsiella pneumoniae
+conN2_088_013G1_concoct_19.fa,Anaerococcus prevotii DSM 20548
+conN2_088_013G1_concoct_7.fa,Veillonella parvula DSM 2008
+conN2_088_027G1_concoct_13.fa,Finegoldia magna ATCC 29328
+conN2_088_027G1_concoct_6.fa,Clostridium baratii str. Sullivan
+conN2_088_034G1_concoct_12.fa,Atopobium parvulum DSM 20469
+conN2_088_042G1_concoct_13.fa,Finegoldia magna ATCC 29328
+conN2_088_042G1_concoct_1.fa,Blautia sp. YL58
+conN2_088_042G1_concoct_22.fa,Lachnoclostridium sp. YL32
+conN2_088_042G1_concoct_4.fa,Megasphaera elsdenii 14-14
+conN2_093_000G1_concoct_4.fa,Clostridium perfringens
+conN2_093_000G1_concoct_5.fa,Pantoea sp. PSNIH2
+conN2_093_000G1_concoct_6.fa,Staphylococcus epidermidis
+conN2_093_007G1_concoct_8.fa,Enterobacter cloacae complex sp. 35734
+conN2_093_008G1_concoct_8.fa,Haemophilus parainfluenzae T3T1
+conN2_093_009G1_concoct_18.fa,Enterococcus faecalis
+conN2_093_009G1_concoct_7.fa,Klebsiella pneumoniae
+conN3_172_000G1_concoct_11.fa,Clostridioides difficile
+conN3_172_000G1_concoct_17.fa,Trueperella pyogenes
+conN3_172_000G1_concoct_1.fa,Eggerthella lenta DSM 2243
+conN3_172_000G1_concoct_20.fa,Enterococcus faecium
+conN3_172_000G1_concoct_22.fa,Staphylococcus epidermidis
+conN3_172_000G1_concoct_33.fa,Anaerococcus prevotii DSM 20548
+conN3_172_000G1_concoct_8.fa,Streptococcus salivarius
+conN3_172_026G1_concoct_10.fa,Veillonella parvula DSM 2008
+conN3_172_026G1_concoct_17.fa,Anaerococcus prevotii DSM 20548
+conN3_172_026G1_concoct_18.fa,Enterococcus faecalis
+conN3_172_026G1_concoct_7.fa,Finegoldia magna ATCC 29328
+conN3_172_030G1_concoct_9.fa,Actinomyces meyeri
+conN3_172_050G1_concoct_28.fa,Enterobacter asburiae
+conN3_172_053G1_concoct_2.fa,Clostridium baratii str. Sullivan
+conN3_172_070G1_concoct_18.fa,Veillonella parvula DSM 2008
+conN3_173_000G1_concoct_15.fa,Streptococcus anginosus
+conN3_173_000G1_concoct_16.fa,Bifidobacterium dentium JCM 1195 = DSM 20436
+conN3_173_000G1_concoct_20.fa,Clostridium sporogenes
+conN3_173_000G1_concoct_24.fa,Haemophilus parainfluenzae T3T1
+conN3_173_000G1_concoct_2.fa,Atopobium parvulum DSM 20469
+conN3_173_000G1_concoct_3.fa,[Enterobacter] aerogenes
+conN3_173_016G1_concoct_13.fa,Staphylococcus epidermidis
+conN3_173_016G1_concoct_15.fa,[Clostridium] acidurici 9a
+conN3_173_016G1_concoct_24.fa,Klebsiella oxytoca
+conN3_173_017G1_concoct_19.fa,Citrobacter freundii
+conN3_173_019G1_concoct_16.fa,Thermobacillus composti KWC4
+conN3_173_019G1_concoct_2.fa,Veillonella parvula DSM 2008
+conN3_173_021G1_concoct_3.fa,Enterococcus faecalis D32
+conN3_173_021G1_concoct_9.fa,Clostridium butyricum
+conN3_173_039G1_concoct_6.fa,Pseudomonas aeruginosa
+conN3_174_000G1_concoct_28.fa,Clostridioides difficile
+conN3_174_000G1_concoct_2.fa,Eggerthella lenta DSM 2243
+conN3_174_000G1_concoct_32.fa,Haemophilus somnus 129PT
+conN3_174_000G1_concoct_4.fa,Clostridium butyricum
+conN3_174_015G1_concoct_0.fa,Staphylococcus epidermidis
+conN3_174_015G1_concoct_1.fa,Propionibacterium avidum 44067
+conN3_174_017G1_concoct_30.fa,Veillonella parvula DSM 2008
+conN3_174_021G1_concoct_10.fa,Clostridium perfringens
+conN3_174_023G1_concoct_18.fa,Anaerococcus prevotii DSM 20548
+conN3_174_023G1_concoct_19.fa,Actinomyces meyeri
+conN3_174_034G1_concoct_17.fa,Klebsiella variicola At-22
+conN3_174_034G1_concoct_7.fa,Clostridium baratii str. Sullivan
+conN3_174_034G1_concoct_9.fa,Clostridium perfringens
+conN3_174_037G1_concoct_13.fa,Actinomyces meyeri
+conN3_174_037G1_concoct_14.fa,Veillonella parvula DSM 2008
+conN3_174_037G1_concoct_4.fa,Enterobacter cloacae
+conN3_175_000G1_concoct_0.fa,Finegoldia magna ATCC 29328
+conN3_175_000G1_concoct_15.fa,Megasphaera elsdenii 14-14
+conN3_175_000G1_concoct_19.fa,Staphylococcus epidermidis
+conN3_175_000G1_concoct_23.fa,Clostridioides difficile
+conN3_175_000G1_concoct_25.fa,Streptococcus parasanguinis ATCC 15912
+conN3_175_000G1_concoct_32.fa,Eggerthella lenta DSM 2243
+conN3_175_000G1_concoct_36.fa,Campylobacter ureolyticus RIGS 9880
+conN3_175_000G1_concoct_38.fa,Clostridium perfringens
+conN3_175_000G1_concoct_4.fa,Pseudomonas aeruginosa
+conN3_175_000G1_concoct_8.fa,Clostridium sporogenes
+conN3_175_017G1_concoct_18.fa,Enterobacter cloacae complex sp. 35734
+conN3_175_017G1_concoct_23.fa,Klebsiella quasipneumoniae
+conN3_175_017G1_concoct_7.fa,Clostridium baratii str. Sullivan
+conN3_175_018G1_concoct_17.fa,Enterococcus faecalis D32
+conN3_175_019G1_concoct_21.fa,Propionibacterium avidum 44067
+conN3_175_032G1_concoct_34.fa,Kluyvera intermedia
+conN3_175_035G1_concoct_1.fa,Propionibacterium avidum 44067
+conN3_175_035G1_concoct_5.fa,Klebsiella pneumoniae
+conN3_175_046G1_concoct_27.fa,Enterobacter cloacae subsp. cloacae ENHKU01
+conN3_175_046G1_concoct_7.fa,Haemophilus parainfluenzae T3T1
+conN3_175_051G1_concoct_20.fa,Clostridium butyricum
+conN3_175_051G1_concoct_3.fa,Veillonella parvula DSM 2008
+conN3_176_000G1_concoct_10.fa,Klebsiella oxytoca
+conN3_176_000G1_concoct_20.fa,Clostridium sporogenes
+conN3_176_000G1_concoct_24.fa,Staphylococcus epidermidis
+conN3_176_000G1_concoct_26.fa,Finegoldia magna ATCC 29328
+conN3_176_000G1_concoct_3.fa,Corynebacterium atypicum
+conN3_176_000G1_concoct_4.fa,Veillonella parvula DSM 2008
+conN3_176_015G1_concoct_5.fa,Klebsiella pneumoniae
+conN3_176_015G1_concoct_6.fa,Enterococcus faecalis
+conN3_176_015G1_concoct_7.fa,Clostridium baratii str. Sullivan
+conN3_176_035G1_concoct_11.fa,Clostridium perfringens
+conN3_176_035G1_concoct_21.fa,Enterobacter asburiae
+conN3_176_035G1_concoct_26.fa,Citrobacter freundii
+conN3_176_038G1_concoct_15.fa,Intestinimonas butyriciproducens
+conN3_176_045G1_concoct_4.fa,Clostridium butyricum
+conN3_177_000G1_concoct_17.fa,Enterococcus faecalis
+conN3_177_000G1_concoct_20.fa,Bifidobacterium breve
+conN3_177_009G1_concoct_41.fa,Klebsiella pneumoniae
+conN3_177_018G1_concoct_7.fa,Enterobacter cloacae complex sp. 35734
+conN3_177_024G1_concoct_21.fa,Enterobacter cloacae complex sp. 35734
+conN3_177_024G1_concoct_2.fa,Veillonella parvula DSM 2008
+conN3_178_000G1_concoct_14.fa,Finegoldia magna ATCC 29328
+conN3_178_000G1_concoct_23.fa,Clostridium baratii str. Sullivan
+conN3_178_000G1_concoct_26.fa,Megasphaera elsdenii 14-14
+conN3_178_000G1_concoct_27.fa,Clostridium perfringens
+conN3_178_000G1_concoct_29.fa,Finegoldia magna ATCC 29328
+conN3_178_000G1_concoct_2.fa,Staphylococcus epidermidis
+conN3_178_000G1_concoct_8.fa,Clostridium butyricum
+conN3_178_000G1_concoct_9.fa,Kluyvera intermedia
+conN3_178_011G1_concoct_9.fa,Enterobacter cloacae complex sp. 35734
+conN3_178_011G2_concoct_0.fa,Enterobacter hormaechei subsp. steigerwaltii
+conN3_178_011G2_concoct_11.fa,Enterococcus faecalis DENG1
+conN3_178_013G1_concoct_1.fa,Klebsiella pneumoniae 342
+conN3_178_014G1_concoct_20.fa,Campylobacter ureolyticus RIGS 9880
+conN3_178_014G1_concoct_28.fa,Streptococcus salivarius
+conN3_178_015G1_concoct_31.fa,Enterococcus hirae ATCC 9790
+conN3_182_000G1_concoct_21.fa,Corynebacterium simulans
+conN3_182_000G1_concoct_7.fa,Staphylococcus epidermidis
+conN3_182_020G1_concoct_29.fa,Enterococcus faecalis
+conN3_183_000G1_concoct_12.fa,Lactobacillus helveticus
+conN3_183_000G1_concoct_26.fa,Lactobacillus salivarius CECT 5713
+conN3_183_000G1_concoct_48.fa,Lactobacillus gasseri 130918
+conN3_183_000G1_concoct_6.fa,Escherichia coli
+conN4_005_000G1_concoct_16.fa,Actinomyces meyeri
+conN4_005_000G1_concoct_19.fa,Staphylococcus simulans
+conN4_005_000G1_concoct_40.fa,Streptococcus salivarius
+conN4_005_000G1_concoct_6.fa,Lactococcus lactis subsp. cremoris SK11
+conN4_005_000G1_concoct_7.fa,Clostridium perfringens
+conN4_005_008G1_concoct_17.fa,Pseudomonas aeruginosa
+conN4_005_008G1_concoct_18.fa,Clostridium baratii str. Sullivan
+conN4_005_008G1_concoct_3.fa,Staphylococcus epidermidis
+conN4_005_017G1_concoct_12.fa,Propionibacterium acnes
+conN4_005_017G1_concoct_13.fa,Veillonella parvula DSM 2008
+conN4_005_017G1_concoct_27.fa,Haemophilus parainfluenzae T3T1
+conN4_005_017G1_concoct_4.fa,Streptococcus mitis
+conN4_005_026G1_concoct_22.fa,Clostridioides difficile
+conN4_005_026G1_concoct_24.fa,Blautia sp. YL58
+conN4_005_026G1_concoct_6.fa,Enterococcus faecalis
+conN4_079_000G1_concoct_18.fa,Enterobacter cloacae
+conN4_079_000G1_concoct_25.fa,Escherichia coli
+conN4_079_000G1_concoct_5.fa,Clostridium baratii str. Sullivan
+conN4_079_008G1_concoct_9.fa,Clostridium perfringens
+conN4_079_014G1_concoct_32.fa,[Enterobacter] aerogenes
+conN4_079_021G1_concoct_11.fa,Enterococcus faecalis D32
+conN4_079_021G1_concoct_13.fa,Haemophilus parainfluenzae T3T1
+conN4_079_021G1_concoct_17.fa,Veillonella parvula DSM 2008
+conN4_082_000G1_concoct_13.fa,Clostridioides difficile
+conN4_082_000G1_concoct_1.fa,Clostridioides difficile
+conN4_082_000G1_concoct_27.fa,Clostridium perfringens
+conN4_082_000G1_concoct_35.fa,Dermabacter vaginalis
+conN4_082_000G1_concoct_3.fa,Pseudomonas aeruginosa
+conN4_082_000G1_concoct_6.fa,Streptococcus parasanguinis ATCC 15912
+conN4_082_014G1_concoct_14.fa,Clostridium lentocellum DSM 5427
+conN4_082_014G1_concoct_16.fa,Clostridium baratii str. Sullivan
+conN4_082_014G1_concoct_24.fa,Staphylococcus epidermidis
+conN4_082_014G1_concoct_25.fa,Veillonella parvula DSM 2008
+conN4_082_014G1_concoct_30.fa,Cronobacter sakazakii
+conN4_082_020G1_concoct_13.fa,Enterococcus faecium T110
+conN4_082_020G1_concoct_21.fa,Enterobacter hormaechei subsp. steigerwaltii
+conN4_082_024G1_concoct_10.fa,Streptococcus salivarius
+conN4_082_024G1_concoct_12.fa,Roseburia hominis A2-183
+conN4_082_024G1_concoct_1.fa,Streptococcus lutetiensis 033
+conN4_082_024G1_concoct_28.fa,Haemophilus parainfluenzae T3T1
+conN4_083_000G1_concoct_10.fa,Enterococcus faecalis
+conN4_083_000G1_concoct_25.fa,Staphylococcus epidermidis
+conN4_083_000G1_concoct_27.fa,Staphylococcus aureus
+conN4_083_014G1_concoct_0.fa,Clostridium baratii str. Sullivan
+conN4_083_014G1_concoct_11.fa,Haemophilus parainfluenzae T3T1
+conN4_083_014G1_concoct_22.fa,Pseudomonas aeruginosa
+conN4_083_020G1_concoct_29.fa,Enterobacter hormaechei subsp. steigerwaltii
+conN4_083_020G1_concoct_31.fa,Streptococcus lutetiensis 033
+conN4_083_024G1_concoct_20.fa,Enterococcus faecium T110
+conN4_083_024G1_concoct_2.fa,Clostridium perfringens
+conN4_083_024G1_concoct_37.fa,Blautia sp. YL58
+conN4_083_024G1_concoct_8.fa,Clostridioides difficile
+conN4_087_000G1_concoct_14.fa,Bradyrhizobium sp. BTAi1
+conN4_087_000G1_concoct_1.fa,Propionibacterium avidum 44067
+conN4_087_000G1_concoct_38.fa,Staphylococcus haemolyticus JCSC1435
+conN4_087_000G1_concoct_40.fa,Bifidobacterium dentium JCM 1195 = DSM 20436
+conN4_087_000G1_concoct_42.fa,Campylobacter curvus 525.92
+conN4_087_000G1_concoct_6.fa,Enterococcus faecalis
+conN4_087_000G1_concoct_8.fa,Megasphaera elsdenii 14-14
+conN4_087_009G1_concoct_17.fa,Lactobacillus gasseri ATCC 33323 = JCM 1131
+conN4_087_009G1_concoct_6.fa,Leclercia adecarboxylata
+conN4_087_015G1_concoct_10.fa,Staphylococcus epidermidis
+conN4_087_015G1_concoct_12.fa,Pseudomonas aeruginosa
+conN4_087_015G1_concoct_2.fa,Clostridium baratii str. Sullivan
+conN4_087_026G1_concoct_17.fa,Anaerococcus prevotii DSM 20548
+conN4_087_026G1_concoct_21.fa,Actinomyces sp. oral taxon 414
+conN4_087_026G1_concoct_22.fa,Clostridium sporogenes
+conN4_087_026G1_concoct_25.fa,Klebsiella pneumoniae KP-1
+conN4_087_026G1_concoct_3.fa,Bifidobacterium breve
+conN4_087_026G1_concoct_6.fa,Anaerococcus prevotii DSM 20548
+conN4_087_026G1_concoct_8.fa,Eggerthella lenta DSM 2243
+conN4_089_000G1_concoct_15.fa,Bradyrhizobium sp. BTAi1
+conN4_089_000G1_concoct_25.fa,Streptococcus agalactiae
+conN4_089_000G1_concoct_29.fa,Finegoldia magna ATCC 29328
+conN4_089_008G1_concoct_12.fa,Staphylococcus epidermidis
+conN4_089_008G1_concoct_20.fa,Enterococcus faecalis
+conN4_089_008G2_concoct_3.fa,Klebsiella pneumoniae
+conN4_089_018G1_concoct_11.fa,Finegoldia magna ATCC 29328
+conN4_089_018G1_concoct_2.fa,Clostridium baratii str. Sullivan
+conN4_089_027G1_concoct_17.fa,Trueperella pyogenes
+conN4_089_027G1_concoct_2.fa,Anaerococcus prevotii DSM 20548
+conN4_094_000G1_concoct_30.fa,Bradyrhizobium sp. BTAi1
+conN4_094_008G1_concoct_12.fa,Escherichia coli
+conN4_094_008G1_concoct_15.fa,Actinomyces meyeri
+conN4_094_008G1_concoct_17.fa,Haemophilus parainfluenzae T3T1
+conN4_094_008G1_concoct_6.fa,Staphylococcus epidermidis
+conN4_094_010G1_concoct_35.fa,Enterococcus faecalis
+conN4_094_012G1_concoct_11.fa,Veillonella parvula DSM 2008
+conN4_094_012G1_concoct_34.fa,Gemella sp. oral taxon 928
+conN4_094_018G1_concoct_35.fa,Clostridium perfringens
+conN4_094_023G1_concoct_12.fa,Staphylococcus epidermidis
+conN4_094_023G1_concoct_8.fa,Klebsiella michiganensis
+conN4_095_000G1_concoct_21.fa,Streptococcus pasteurianus ATCC 43144
+conN4_095_000G1_concoct_27.fa,Staphylococcus haemolyticus
+conN4_095_000G1_concoct_32.fa,Mobiluncus curtisii ATCC 43063
+conN4_095_012G1_concoct_14.fa,Clostridium perfringens
+conN4_095_012G1_concoct_23.fa,Haemophilus influenzae
+conN4_095_012G1_concoct_29.fa,Enterococcus faecalis
+conN4_095_016G1_concoct_0.fa,Streptococcus salivarius CCHSS3
+conN4_095_016G1_concoct_12.fa,Kluyvera intermedia
+conN4_095_016G1_concoct_6.fa,Bradyrhizobium sp. BTAi1
+conN4_095_019G1_concoct_1.fa,Veillonella parvula DSM 2008
+conN4_095_025G1_concoct_13.fa,Finegoldia magna ATCC 29328
+conN4_095_025G1_concoct_17.fa,Staphylococcus aureus
+conN4_095_025G1_concoct_2.fa,Mobiluncus curtisii ATCC 43063
+conN4_095_025G1_concoct_6.fa,Corynebacterium atypicum
+conN4_097_000G1_concoct_12.fa,Clostridium perfringens
+conN4_097_000G1_concoct_16.fa,Clostridioides difficile
+conN4_097_000G1_concoct_25.fa,Staphylococcus epidermidis
+conN4_097_000G1_concoct_33.fa,Neisseria meningitidis
+conN4_097_005G1_concoct_13.fa,Bacteroides helcogenes P 36-108
+conN4_097_007G1_concoct_37.fa,Bacteroides vulgatus ATCC 8482
+conN4_097_007G1_concoct_5.fa,Escherichia coli
+conN4_097_027G1_concoct_7.fa,Bradyrhizobium sp. BTAi1
+conN4_097_027G1_concoct_9.fa,Veillonella parvula DSM 2008
+conN4_097_034G1_concoct_0.fa,Bifidobacterium longum
+conN4_097_034G1_concoct_10.fa,Enterococcus faecium
+conN4_100_000G1_concoct_1.fa,Capnocytophaga sp. oral taxon 323
+conN4_100_000G1_concoct_29.fa,Gardnerella vaginalis HMP9231
+conN4_100_000G1_concoct_4.fa,Veillonella parvula DSM 2008
+conN4_100_007G1_concoct_3.fa,Capnocytophaga sp. oral taxon 323
+conN4_100_009G1_concoct_12.fa,Streptococcus anginosus
+conN4_100_009G1_concoct_4.fa,Escherichia coli
+conN4_100_011G1_concoct_0.fa,Staphylococcus epidermidis
+conN4_100_014G1_concoct_12.fa,Bradyrhizobium sp. BTAi1
+conN4_101_000G1_concoct_36.fa,Lactococcus lactis subsp. lactis IO-1
+conN4_101_000G1_concoct_37.fa,Gardnerella vaginalis HMP9231
+conN4_101_000G1_concoct_41.fa,Bradyrhizobium sp. BTAi1
+conN4_101_000G1_concoct_47.fa,Corynebacterium simulans
+conN4_101_015G1_concoct_5.fa,Veillonella parvula DSM 2008
+conN4_101_017G1_concoct_13.fa,Prevotella melaninogenica ATCC 25845
+conN4_101_017G1_concoct_14.fa,Gemella sp. oral taxon 928
+conN4_101_017G1_concoct_22.fa,Streptococcus sp. VT 162
+conN4_101_017G1_concoct_31.fa,Staphylococcus epidermidis
+conN4_101_017G1_concoct_3.fa,Streptococcus salivarius CCHSS3
+conN4_101_017G1_concoct_5.fa,Finegoldia magna ATCC 29328
+conN4_101_027G1_concoct_11.fa,Lactobacillus johnsonii N6.2
+conN4_101_038G1_concoct_7.fa,Enterococcus faecalis D32
+conN4_101_042G1_concoct_5.fa,Klebsiella oxytoca
+conN4_103_000G1_concoct_14.fa,Clostridioides difficile
+conN4_103_000G1_concoct_5.fa,Enterococcus faecium
+conN4_103_000G1_concoct_8.fa,Streptococcus lutetiensis 033
+conN4_103_020G1_concoct_15.fa,Clostridium butyricum
+conN4_103_020G1_concoct_3.fa,Clostridioides difficile
+conN4_103_020G1_concoct_9.fa,Enterococcus faecalis
+conN4_103_028G1_concoct_5.fa,Veillonella parvula DSM 2008
+conN4_104_000G1_concoct_18.fa,Staphylococcus epidermidis
+conN4_104_000G1_concoct_21.fa,Enterobacteriaceae
+conN4_104_000G1_concoct_46.fa,Clostridium perfringens
+conN4_104_000G1_concoct_52.fa,[Eubacterium rectale] ATCC 33656
+conN4_104_000G1_concoct_56.fa,Clostridioides difficile
+conN4_104_000G1_concoct_70.fa,Streptococcus pasteurianus ATCC 43144
+conN4_104_000G1_concoct_71.fa,Bradyrhizobium sp. BTAi1
+conN4_104_010G1_concoct_10.fa,Pantoea sp. PSNIH2
+conN4_104_013G1_concoct_1.fa,Corynebacterium kroppenstedtii DSM 44385
+conN4_104_013G1_concoct_27.fa,Enterococcus faecalis
+conN4_104_013G1_concoct_30.fa,Clostridium perfringens
+conN4_104_013G1_concoct_6.fa,Clostridioides difficile
+conN4_104_013G1_concoct_8.fa,Enterobacter cloacae
+conN4_104_021G1_concoct_37.fa,Klebsiella oxytoca
+conN4_104_021G1_concoct_6.fa,Enterococcus faecium
+conN4_104_027G1_concoct_0.fa,Prevotella ruminicola 23
+conN4_104_027G1_concoct_11.fa,Clostridioides difficile
+conN4_104_027G1_concoct_12.fa,Escherichia coli
+conN4_104_027G1_concoct_18.fa,Parabacteroides distasonis ATCC 8503
+conN4_104_027G1_concoct_26.fa,Bifidobacterium longum
+conN4_104_027G1_concoct_27.fa,Olsenella uli DSM 7084
+conN4_104_027G1_concoct_32.fa,Veillonella parvula DSM 2008
+conN4_104_027G1_concoct_39.fa,Blautia sp. YL58
+conN4_105_000G1_concoct_21.fa,Enterobacter hormaechei subsp. oharae
+conN4_105_000G1_concoct_29.fa,Enterococcus faecalis D32
+conN4_105_000G1_concoct_32.fa,Klebsiella pneumoniae
+conN4_105_007G1_concoct_11.fa,Bradyrhizobium sp. BTAi1
+conN4_105_010G1_concoct_10.fa,Serratia marcescens
+conN4_105_010G1_concoct_19.fa,Pantoea vagans C9-1
+conN4_105_010G1_concoct_2.fa,Pantoea sp. PSNIH2
+conN4_105_010G1_concoct_3.fa,Clostridium perfringens
+conN4_105_011G1_concoct_11.fa,Plautia stali symbiont
+conN4_105_011G1_concoct_2.fa,Enterobacter cloacae complex sp. 35734
+conN4_105_016G1_concoct_11.fa,Staphylococcus epidermidis
+conN4_105_016G1_concoct_4.fa,Eggerthella lenta DSM 2243
+conN4_106_000G1_concoct_13.fa,Enterococcus faecalis D32
+conN4_106_000G1_concoct_14.fa,Bradyrhizobium sp. BTAi1
+conN4_106_000G1_concoct_16.fa,Corynebacterium simulans
+conN4_106_000G1_concoct_4.fa,Rothia mucilaginosa DY-18
+conN4_106_051G1_concoct_14.fa,Staphylococcus epidermidis
+conN4_106_059G1_concoct_10.fa,Klebsiella pneumoniae
+conN4_107_000G1_concoct_11.fa,Clostridium baratii str. Sullivan
+conN4_107_000G1_concoct_12.fa,Enterococcus faecalis D32
+conN4_107_000G1_concoct_14.fa,Propionibacterium avidum 44067
+conN4_107_000G1_concoct_15.fa,Bradyrhizobium sp. BTAi1
+conN4_107_000G1_concoct_1.fa,Clostridium perfringens
+conN4_107_000G1_concoct_21.fa,Propionibacterium acnes
+conN4_107_000G1_concoct_25.fa,Bifidobacterium scardovii JCM 12489 = DSM 13734
+conN4_107_026G1_concoct_15.fa,Clostridium kluyveri NBRC 12016
+conN4_107_030G1_concoct_13.fa,Enterobacter hormaechei subsp. steigerwaltii
+conN4_107_030G1_concoct_4.fa,Serratia marcescens
+conN4_107_034G1_concoct_1.fa,Flavonifractor plautii
+conN4_107_034G1_concoct_4.fa,Acinetobacter pittii
+conN4_114_000G1_concoct_14.fa,Clostridioides difficile
+conN4_114_000G1_concoct_5.fa,Clostridium kluyveri DSM 555
+conN4_114_006G1_concoct_11.fa,Klebsiella oxytoca
+conN4_114_006G1_concoct_8.fa,Haemophilus parainfluenzae T3T1
+conN4_114_015G1_concoct_26.fa,Enterococcus faecalis D32
+conN4_114_019G1_concoct_2.fa,Streptococcus mitis
+conN4_114_019G1_concoct_6.fa,Clostridium sporogenes
+conN4_114_019G1_concoct_7.fa,Veillonella parvula DSM 2008
+conN4_114_025G1_concoct_5.fa,Clostridium perfringens
+conN4_114_025G1_concoct_6.fa,Lachnoclostridium phytofermentans ISDg
+conN4_114_030G1_concoct_10.fa,Flavonifractor plautii
+conN4_114_030G1_concoct_11.fa,Clostridium baratii str. Sullivan
+conN4_115_000G1_concoct_10.fa,Staphylococcus haemolyticus JCSC1435
+conN4_115_000G1_concoct_24.fa,Veillonella parvula DSM 2008
+conN4_115_000G1_concoct_34.fa,Bradyrhizobium sp. BTAi1
+conN4_115_000G1_concoct_6.fa,Streptococcus mitis
+conN4_115_019G1_concoct_3.fa,Enterococcus faecalis
+conN4_115_024G1_concoct_7.fa,Staphylococcus epidermidis
+conN4_115_034G1_concoct_17.fa,Clostridium perfringens
+conN4_115_034G1_concoct_8.fa,Klebsiella pneumoniae
+conN4_116_000G1_concoct_12.fa,Clostridioides difficile
+conN4_116_000G1_concoct_17.fa,Flavonifractor plautii
+conN4_116_000G1_concoct_22.fa,Bradyrhizobium sp. BTAi1
+conN4_116_000G1_concoct_25.fa,Clostridioides difficile
+conN4_116_010G1_concoct_0.fa,Enterococcus faecalis D32
+conN4_116_010G1_concoct_10.fa,Staphylococcus epidermidis
+conN4_116_010G1_concoct_16.fa,Haemophilus parainfluenzae T3T1
+conN4_116_010G1_concoct_3.fa,Staphylococcus lugdunensis HKU09-01
+conN4_116_013G1_concoct_17.fa,Staphylococcus warneri SG1
+conN4_116_013G1_concoct_31.fa,Veillonella parvula DSM 2008
+conN4_116_025G1_concoct_8.fa,Enterobacter sp. E20
+conN4_124_000G1_concoct_14.fa,Staphylococcus aureus
+conN4_124_000G1_concoct_17.fa,Anaerococcus prevotii DSM 20548
+conN4_124_000G1_concoct_19.fa,Bradyrhizobium sp. BTAi1
+conN4_124_000G1_concoct_6.fa,Mobiluncus curtisii ATCC 43063
+conN4_124_007G1_concoct_10.fa,Staphylococcus epidermidis
+conN4_124_007G1_concoct_17.fa,Enterococcus faecalis
+conN4_124_007G1_concoct_18.fa,Klebsiella pneumoniae
+conN4_124_009G1_concoct_21.fa,Propionibacterium avidum 44067
+conN4_124_011G2_concoct_11.fa,Clostridium perfringens
+conN4_124_011G2_concoct_12.fa,Actinomyces sp. oral taxon 414
+conN4_124_031G1_concoct_2.fa,Enterobacter hormaechei subsp. steigerwaltii
+conN4_124_033G1_concoct_2.fa,Lactobacillus helveticus
+conN4_124_033G1_concoct_7.fa,Bacteroides thetaiotaomicron VPI-5482
+conN4_124_039G1_concoct_13.fa,Streptococcus anginosus
+conN4_125_000G1_concoct_12.fa,Streptococcus anginosus
+conN4_125_000G1_concoct_35.fa,Haemophilus parainfluenzae T3T1
+conN4_125_000G1_concoct_37.fa,Clostridioides difficile
+conN4_125_000G1_concoct_44.fa,Klebsiella pneumoniae
+conN4_125_000G1_concoct_4.fa,Neisseria meningitidis
+conN4_125_000G1_concoct_6.fa,Finegoldia magna ATCC 29328
+conN4_125_008G1_concoct_36.fa,Citrobacter koseri ATCC BAA-895
+conN4_125_011G1_concoct_10.fa,Staphylococcus epidermidis
+conN4_125_011G1_concoct_11.fa,Enterococcus faecalis
+conN4_125_011G1_concoct_21.fa,Clostridium perfringens
+conN4_125_011G1_concoct_22.fa,Proteus mirabilis HI4320
+conN4_125_018G1_concoct_22.fa,Acinetobacter pittii
+conN4_125_018G1_concoct_2.fa,Streptococcus pasteurianus ATCC 43144
+conN4_126_000G1_concoct_31.fa,Bifidobacterium breve
+conN4_126_000G1_concoct_35.fa,Bradyrhizobium sp. BTAi1
+conN4_126_000G1_concoct_7.fa,Enterobacter cloacae complex sp. 35734
+conN4_126_007G1_concoct_0.fa,Pantoea vagans C9-1
+conN4_126_007G1_concoct_6.fa,Staphylococcus epidermidis
+conN4_126_010G1_concoct_16.fa,Acinetobacter baumannii
+conN4_126_016G1_concoct_12.fa,Klebsiella pneumoniae
+conN4_126_019G1_concoct_12.fa,Escherichia coli
+conN4_128_000G1_concoct_22.fa,Streptococcus thermophilus
+conN4_128_000G1_concoct_24.fa,Propionibacterium avidum 44067
+conN4_128_000G1_concoct_29.fa,Staphylococcus aureus
+conN4_128_000G1_concoct_30.fa,Clostridium baratii str. Sullivan
+conN4_128_000G1_concoct_37.fa,Pantoea vagans C9-1
+conN4_128_000G1_concoct_8.fa,Finegoldia magna ATCC 29328
+conN4_128_000G1_concoct_9.fa,Blautia sp. YL58
+conN4_128_007G1_concoct_10.fa,Bradyrhizobium sp. BTAi1
+conN4_128_007G1_concoct_6.fa,Staphylococcus epidermidis
+conN4_128_010G1_concoct_14.fa,Clostridioides difficile
+conN4_128_010G2_concoct_17.fa,Clostridium perfringens
+conN4_128_012G1_concoct_13.fa,Veillonella parvula DSM 2008
+conN4_128_012G1_concoct_4.fa,Escherichia coli
+conN4_128_012G1_concoct_8.fa,Lactobacillus salivarius
+conN4_129_000G1_concoct_23.fa,Corynebacterium atypicum
+conN4_129_000G1_concoct_38.fa,Eggerthella lenta DSM 2243
+conN4_129_000G1_concoct_3.fa,Anaerococcus prevotii DSM 20548
+conN4_129_000G1_concoct_5.fa,Streptococcus salivarius
+conN4_129_000G1_concoct_7.fa,Veillonella parvula DSM 2008
+conN4_129_012G1_concoct_12.fa,Streptococcus mitis
+conN4_129_012G1_concoct_19.fa,Staphylococcus lugdunensis HKU09-01
+conN4_129_012G1_concoct_2.fa,Corynebacterium kroppenstedtii DSM 44385
+conN4_129_016G1_concoct_10.fa,Bradyrhizobium sp. BTAi1
+conN4_129_016G1_concoct_18.fa,Anaerococcus prevotii DSM 20548
+conN4_129_016G1_concoct_21.fa,Streptococcus gordonii
+conN4_129_016G1_concoct_2.fa,Finegoldia magna ATCC 29328
+conN4_129_029G1_concoct_11.fa,Finegoldia magna ATCC 29328
+conN4_129_029G1_concoct_12.fa,Staphylococcus epidermidis
+conN4_129_029G1_concoct_30.fa,Anaerococcus prevotii DSM 20548
+conN4_131_000G1_concoct_0.fa,Bradyrhizobium sp. BTAi1
+conN4_131_000G1_concoct_13.fa,Veillonella parvula DSM 2008
+conN4_131_000G1_concoct_21.fa,Corynebacterium sp. ATCC 6931
+conN4_131_000G1_concoct_35.fa,Acinetobacter baumannii
+conN4_131_000G1_concoct_38.fa,Bifidobacterium animalis
+conN4_131_009G1_concoct_2.fa,Escherichia coli
+conN4_131_009G1_concoct_4.fa,Clostridium baratii str. Sullivan
+conN4_131_015G1_concoct_11.fa,Pelosinus sp. UFO1
+conN4_131_015G1_concoct_2.fa,Enterobacter cloacae complex sp. 35734
+conN4_131_023G1_concoct_29.fa,Clostridioides difficile
+conN4_131_023G1_concoct_35.fa,Clostridium perfringens
+conN4_137_000G1_concoct_12.fa,Clostridium baratii str. Sullivan
+conN4_137_000G1_concoct_16.fa,Clostridioides difficile
+conN4_137_000G1_concoct_26.fa,Dermabacter vaginalis
+conN4_137_005G1_concoct_15.fa,Escherichia coli
+conN4_137_005G1_concoct_1.fa,Streptococcus agalactiae
+conN4_137_005G1_concoct_2.fa,Staphylococcus epidermidis
+conN4_137_005G1_concoct_7.fa,Haemophilus parainfluenzae T3T1
+conN4_137_012G1_concoct_2.fa,Roseburia hominis A2-183
+conN4_138_000G1_concoct_17.fa,Enterococcus casseliflavus EC20
+conN4_138_000G1_concoct_34.fa,Roseburia hominis A2-183
+conN4_138_005G1_concoct_27.fa,Veillonella parvula DSM 2008
+conN4_138_005G1_concoct_31.fa,Leclercia adecarboxylata
+conN4_138_005G1_concoct_5.fa,Streptococcus salivarius CCHSS3
+conN4_138_008G1_concoct_14.fa,Clostridium baratii str. Sullivan
+conN4_138_010G1_concoct_11.fa,Clostridioides difficile
+conN4_138_010G1_concoct_29.fa,Streptococcus parasanguinis FW213
+conN4_138_010G1_concoct_31.fa,Staphylococcus epidermidis
+conN4_138_010G1_concoct_32.fa,Haemophilus parainfluenzae T3T1
+conN4_138_010G1_concoct_7.fa,Campylobacter concisus 13826
+conN4_138_012G1_concoct_11.fa,Finegoldia magna ATCC 29328
+conN4_138_012G1_concoct_15.fa,Veillonella parvula DSM 2008
+conN4_138_012G1_concoct_25.fa,Clostridium perfringens
+conN4_139_000G1_concoct_21.fa,Lachnoclostridium sp. YL32
+conN4_139_000G1_concoct_31.fa,Clostridium butyricum
+conN4_139_000G1_concoct_6.fa,Clostridium perfringens
+conN4_139_007G1_concoct_2.fa,Streptococcus thermophilus
+conN4_139_007G1_concoct_4.fa,Staphylococcus lugdunensis
+conN4_139_013G1_concoct_14.fa,Clostridium baratii str. Sullivan
+conN4_139_013G1_concoct_6.fa,Staphylococcus epidermidis
+conN4_139_013G1_concoct_7.fa,Enterococcus hirae
+conN4_139_013G1_concoct_9.fa,Klebsiella pneumoniae
+conN4_139_027G1_concoct_12.fa,Clostridioides difficile
+conN4_139_027G1_concoct_14.fa,Veillonella parvula DSM 2008
+conN4_139_027G1_concoct_16.fa,Enterobacter cloacae
+conN4_139_027G1_concoct_20.fa,Eggerthella lenta DSM 2243
+conN4_140_000G1_concoct_14.fa,Klebsiella pneumoniae
+conN4_140_000G1_concoct_20.fa,Proteus mirabilis HI4320
+conN4_140_000G1_concoct_23.fa,Enterococcus faecalis D32
+conN4_140_000G1_concoct_4.fa,Klebsiella michiganensis
+conN4_140_000G1_concoct_5.fa,Bacteroides thetaiotaomicron VPI-5482
+conN4_140_016G1_concoct_13.fa,Enterobacter cloacae complex sp. 35734
+conN4_140_016G1_concoct_16.fa,Citrobacter freundii CFNIH1
+conN4_140_016G1_concoct_20.fa,Clostridium perfringens
+conN4_140_034G1_concoct_11.fa,Fusobacterium nucleatum subsp. polymorphum
+conN4_140_034G1_concoct_5.fa,Bacteroides ovatus
+conN4_141_000G1_concoct_0.fa,Anaerococcus prevotii DSM 20548
+conN4_141_000G1_concoct_11.fa,Propionibacterium acidipropionici
+conN4_141_000G1_concoct_13.fa,Staphylococcus warneri SG1
+conN4_141_000G1_concoct_1.fa,Eggerthella lenta DSM 2243
+conN4_141_000G1_concoct_4.fa,Bacillus oceanisediminis 2691
+conN4_141_000G1_concoct_9.fa,Finegoldia magna ATCC 29328
+conN4_141_008G1_concoct_10.fa,Staphylococcus epidermidis
+conN4_141_013G1_concoct_0.fa,Escherichia coli
+conN4_141_020G1_concoct_0.fa,Enterococcus faecalis D32
+conN4_141_037G1_concoct_13.fa,Enterococcus durans
+conN4_141_037G1_concoct_14.fa,Clostridioides difficile
+conN4_141_037G1_concoct_6.fa,Clostridium baratii str. Sullivan
+conN4_142_000G1_concoct_10.fa,Veillonella parvula DSM 2008
+conN4_142_000G1_concoct_12.fa,Streptococcus thermophilus
+conN4_142_000G1_concoct_14.fa,Enterococcus faecalis D32
+conN4_142_000G1_concoct_18.fa,Finegoldia magna ATCC 29328
+conN4_142_000G1_concoct_1.fa,Staphylococcus epidermidis
+conN4_142_000G1_concoct_2.fa,Anaerococcus prevotii DSM 20548
+conN4_142_000G1_concoct_4.fa,Bifidobacterium breve
+conN4_142_000G1_concoct_5.fa,Propionibacterium avidum 44067
+conN4_142_000G1_concoct_8.fa,Clostridium baratii str. Sullivan
+conN4_142_013G1_concoct_7.fa,Escherichia coli
+conN4_142_020G1_concoct_20.fa,Clostridium baratii str. Sullivan
+conN4_142_020G1_concoct_22.fa,Clostridioides difficile
+conN4_142_036G1_concoct_8.fa,Bacteroides ovatus
+conN4_150_000G1_concoct_17.fa,Enterococcus faecalis
+conN4_150_000G1_concoct_20.fa,Pseudomonas aeruginosa
+conN4_150_000G1_concoct_26.fa,Staphylococcus epidermidis
+conN4_150_000G1_concoct_27.fa,Anaerococcus prevotii DSM 20548
+conN4_150_000G1_concoct_28.fa,[Enterobacter] aerogenes
+conN4_150_000G1_concoct_29.fa,Streptococcus salivarius
+conN4_150_000G1_concoct_6.fa,Citrobacter freundii
+conN4_150_014G1_concoct_24.fa,Escherichia coli
+conN4_150_014G1_concoct_8.fa,Klebsiella pneumoniae
+conN4_150_018G1_concoct_15.fa,Bifidobacterium breve
+conN4_150_018G1_concoct_8.fa,Clostridioides difficile
+conN4_150_021G1_concoct_6.fa,Clostridium perfringens
+conN4_151_000G1_concoct_18.fa,Staphylococcus epidermidis
+conN4_151_000G1_concoct_20.fa,Bradyrhizobium sp. BTAi1
+conN4_151_000G1_concoct_25.fa,Veillonella parvula DSM 2008
+conN4_151_000G1_concoct_36.fa,Streptococcus mitis
+conN4_151_000G1_concoct_5.fa,Enterococcus faecalis
+conN4_151_000G1_concoct_8.fa,Citrobacter amalonaticus
+conN4_151_000G1_concoct_9.fa,Clostridioides difficile
+conN4_151_006G1_concoct_16.fa,Enterococcus faecium
+conN4_151_006G1_concoct_24.fa,[Enterobacter] aerogenes
+conN4_151_014G1_concoct_2.fa,Escherichia coli
+conN4_151_014G1_concoct_8.fa,Staphylococcus epidermidis
+conN4_151_017G1_concoct_12.fa,Citrobacter freundii
+conN4_151_021G1_concoct_6.fa,Klebsiella pneumoniae
+conN4_152_000G1_concoct_13.fa,Anaerococcus prevotii DSM 20548
+conN4_152_000G1_concoct_16.fa,[Enterobacter] aerogenes
+conN4_152_000G1_concoct_29.fa,Propionibacterium avidum 44067
+conN4_152_000G1_concoct_2.fa,Clostridium butyricum
+conN4_152_000G1_concoct_30.fa,Clostridioides difficile
+conN4_152_000G1_concoct_36.fa,Bacteroides ovatus
+conN4_152_000G1_concoct_37.fa,Mobiluncus curtisii ATCC 43063
+conN4_152_000G1_concoct_8.fa,Citrobacter freundii
+conN4_152_000G1_concoct_9.fa,Lactococcus lactis subsp. cremoris SK11
+conN4_152_006G1_concoct_19.fa,Escherichia coli
+conN4_152_006G1_concoct_22.fa,Bradyrhizobium sp. BTAi1
+conN4_152_006G1_concoct_31.fa,Enterococcus faecalis
+conN4_152_014G1_concoct_17.fa,Staphylococcus epidermidis
+conN4_152_014G1_concoct_19.fa,Streptococcus salivarius
+conN4_152_018G1_concoct_4.fa,Escherichia coli
+conN4_152_021G1_concoct_26.fa,Veillonella parvula DSM 2008
+conN4_152_021G1_concoct_3.fa,Clostridium perfringens
+conN4_152_021G1_concoct_6.fa,Klebsiella pneumoniae
+conN4_154_000G1_concoct_10.fa,Leclercia adecarboxylata
+conN4_154_000G1_concoct_14.fa,Enterobacter cloacae
+conN4_154_000G1_concoct_29.fa,Finegoldia magna ATCC 29328
+conN4_154_000G1_concoct_7.fa,Streptococcus mitis
+conN4_154_006G1_concoct_14.fa,Enterococcus faecalis D32
+conN4_154_006G1_concoct_17.fa,Staphylococcus epidermidis
+conN4_154_006G1_concoct_22.fa,Clostridium perfringens
+conN4_154_013G1_concoct_1.fa,Streptococcus anginosus
+conN4_154_020G1_concoct_19.fa,Veillonella parvula DSM 2008
+conN4_154_020G1_concoct_22.fa,Clostridium baratii str. Sullivan
+conN4_154_020G1_concoct_23.fa,Clostridioides difficile
+conN4_154_020G1_concoct_24.fa,Stenotrophomonas maltophilia K279a
+conN4_154_020G1_concoct_32.fa,Finegoldia magna ATCC 29328
+conN4_154_020G1_concoct_36.fa,Bradyrhizobium sp. BTAi1
+conN4_154_020G1_concoct_5.fa,Actinomyces sp. oral taxon 414
+conN4_154_020G1_concoct_7.fa,Staphylococcus epidermidis
+conN4_154_020G1_concoct_8.fa,Pseudomonas aeruginosa
+conN4_155_000G1_concoct_17.fa,Clostridium perfringens
+conN4_155_000G1_concoct_18.fa,Finegoldia magna ATCC 29328
+conN4_155_000G1_concoct_2.fa,Pantoea vagans C9-1
+conN4_155_006G1_concoct_13.fa,Staphylococcus lugdunensis
+conN4_155_009G1_concoct_0.fa,Propionibacterium acidipropionici
+conN4_155_009G1_concoct_16.fa,Enterococcus hirae ATCC 9790
+conN4_155_009G1_concoct_18.fa,Staphylococcus epidermidis
+conN4_155_009G1_concoct_19.fa,Clostridioides difficile
+conN4_155_009G1_concoct_22.fa,Streptococcus anginosus
+conN4_155_009G1_concoct_2.fa,Actinomyces sp. oral taxon 414
+conN4_155_009G1_concoct_6.fa,Propionibacterium avidum 44067
+conN4_155_013G1_concoct_14.fa,Veillonella parvula DSM 2008
+conN4_155_013G1_concoct_15.fa,Lactobacillus salivarius
+conN4_155_013G1_concoct_9.fa,Staphylococcus epidermidis
+conN4_155_020G1_concoct_6.fa,Veillonella parvula DSM 2008
+conN4_159_000G1_concoct_26.fa,Dermabacter vaginalis
+conN4_159_000G1_concoct_30.fa,Staphylococcus warneri SG1
+conN4_159_000G1_concoct_31.fa,Escherichia coli
+conN4_159_000G1_concoct_32.fa,Bradyrhizobium sp. BTAi1
+conN4_159_015G1_concoct_5.fa,Staphylococcus epidermidis
+conN4_159_015G1_concoct_7.fa,Enterococcus faecalis
+conN4_159_024G1_concoct_0.fa,Lactococcus lactis subsp. cremoris SK11
+conN4_159_024G1_concoct_27.fa,Streptococcus mitis
+conN4_159_039G1_concoct_6.fa,Staphylococcus aureus
+conN4_159_053G1_concoct_1.fa,Clostridium butyricum
+conN4_160_000G1_concoct_1.fa,Propionibacterium avidum 44067
+conN4_160_000G1_concoct_24.fa,Neisseria meningitidis
+conN4_160_000G1_concoct_28.fa,Gemella sp. oral taxon 928
+conN4_160_000G1_concoct_32.fa,Clostridioides difficile
+conN4_160_010G1_concoct_14.fa,Bradyrhizobium sp. BTAi1
+conN4_160_010G1_concoct_23.fa,Corynebacterium simulans
+conN4_160_010G1_concoct_27.fa,Corynebacterium atypicum
+conN4_160_010G1_concoct_2.fa,Staphylococcus epidermidis
+conN4_160_039G1_concoct_17.fa,Lactobacillus reuteri
+conN4_160_039G1_concoct_24.fa,Enterococcus faecalis ATCC 29212
+conN4_160_053G1_concoct_17.fa,Staphylococcus aureus
+conN4_165_037G1_concoct_4.fa,Klebsiella oxytoca
+conN4_165_051G1_concoct_10.fa,Enterococcus faecalis
+conN4_166_000G1_concoct_14.fa,Streptococcus mitis
+conN4_166_000G1_concoct_16.fa,Finegoldia magna ATCC 29328
+conN4_166_000G1_concoct_22.fa,Enterococcus faecalis
+conN4_166_000G1_concoct_29.fa,Clostridium baratii str. Sullivan
+conN4_166_000G1_concoct_2.fa,Clostridium tetani E88
+conN4_166_020G1_concoct_12.fa,Clostridium sporogenes
+conN4_166_020G1_concoct_1.fa,Pseudomonas aeruginosa
+conN4_166_027G1_concoct_12.fa,Klebsiella pneumoniae
+conN4_166_027G1_concoct_18.fa,Klebsiella oxytoca
+conN4_166_027G1_concoct_1.fa,Clostridium butyricum
+conN4_166_027G1_concoct_3.fa,Clostridioides difficile
+conN4_166_027G1_concoct_5.fa,Veillonella parvula DSM 2008
+conN4_166_061G1_concoct_4.fa,Actinomyces meyeri
+conN4_166_061G1_concoct_6.fa,Klebsiella oxytoca KONIH1
+conN4_166_061G1_concoct_8.fa,Citrobacter freundii
+conN4_167_000G1_concoct_10.fa,Propionibacterium avidum 44067
+conN4_167_000G1_concoct_11.fa,Clostridium botulinum
+conN4_167_000G1_concoct_20.fa,Anaerococcus prevotii DSM 20548
+conN4_167_000G1_concoct_3.fa,Clostridium sporogenes
+conN4_167_000G1_concoct_4.fa,Clostridium butyricum
+conN4_167_020G1_concoct_0.fa,Escherichia coli
+conN4_167_020G1_concoct_11.fa,Corynebacterium atypicum
+conN4_167_020G1_concoct_13.fa,Staphylococcus epidermidis
+conN4_167_020G1_concoct_14.fa,Veillonella parvula DSM 2008
+conN4_167_020G1_concoct_2.fa,Clostridium baratii str. Sullivan
+conN4_167_020G1_concoct_5.fa,Enterococcus faecalis
+conN4_167_027G1_concoct_16.fa,Veillonella parvula DSM 2008
+conN4_167_066G1_concoct_0.fa,Clostridium baratii str. Sullivan
+conN4_167_066G1_concoct_2.fa,Flavonifractor plautii
+conN4_167_072G1_concoct_10.fa,Clostridium perfringens
+conN4_167_072G1_concoct_18.fa,Veillonella parvula DSM 2008
+conN4_167_072G1_concoct_1.fa,Citrobacter freundii
+conN4_168_000G1_concoct_17.fa,Enterobacter cloacae complex sp. 35734
+conN4_168_000G1_concoct_9.fa,Staphylococcus epidermidis
+conN4_168_017G1_concoct_27.fa,Serratia marcescens
+conN4_168_021G1_concoct_13.fa,Veillonella parvula DSM 2008
+conN4_168_021G1_concoct_15.fa,Klebsiella pneumoniae
+conN4_168_021G1_concoct_1.fa,Enterobacter hormaechei subsp. steigerwaltii
+conN4_168_021G1_concoct_20.fa,Enterococcus faecalis
+conN4_170_000G1_concoct_16.fa,Eggerthella lenta DSM 2243
+conN4_170_000G1_concoct_23.fa,Neisseria elongata subsp. glycolytica ATCC 29315
+conN4_170_000G1_concoct_29.fa,Enterococcus gallinarum
+conN4_170_009G1_concoct_63.fa,Escherichia coli
+conN4_170_012G1_concoct_13.fa,Enterococcus faecalis D32
+conN4_170_012G1_concoct_18.fa,Proteus mirabilis HI4320
+conN4_170_019G1_concoct_12.fa,Bifidobacterium bifidum
+conN4_170_019G1_concoct_23.fa,Escherichia coli
+conN4_170_019G1_concoct_35.fa,Veillonella parvula DSM 2008
+conN4_170_019G1_concoct_40.fa,Clostridioides difficile
+conN4_171_000G1_concoct_13.fa,Serratia marcescens
+conN4_171_000G1_concoct_41.fa,Acinetobacter pittii
+conN4_171_005G1_concoct_13.fa,Clostridium perfringens
+conN4_171_005G1_concoct_7.fa,Staphylococcus warneri SG1
+conN4_171_017G1_concoct_34.fa,Staphylococcus aureus
+conN4_171_026G1_concoct_11.fa,Staphylococcus epidermidis
+conN4_176_000G1_concoct_0.fa,Clostridioides difficile
+conN4_176_000G1_concoct_15.fa,Clostridium butyricum
+conN4_176_000G1_concoct_1.fa,Kluyvera intermedia
+conN4_176_000G1_concoct_22.fa,Clostridium baratii str. Sullivan
+conN4_176_000G1_concoct_3.fa,Acidaminococcus fermentans DSM 20731
+conN4_176_000G1_concoct_5.fa,Veillonella parvula DSM 2008
+conN4_176_051G1_concoct_20.fa,Streptococcus sp. VT 162
+conN4_177_000G1_concoct_0.fa,Enterococcus faecalis
+conN4_177_000G1_concoct_18.fa,Anaerococcus prevotii DSM 20548
+conN4_177_000G1_concoct_22.fa,Lawsonella clevelandensis
+conN4_177_000G1_concoct_31.fa,Bifidobacterium breve
+conN4_177_000G1_concoct_39.fa,Veillonella parvula DSM 2008
+conN4_177_011G1_concoct_1.fa,Enterobacter cloacae
+conN4_177_011G1_concoct_9.fa,Clostridium perfringens
+conN4_177_039G1_concoct_9.fa,Anaerococcus prevotii DSM 20548
+conN4_177_045G1_concoct_12.fa,Escherichia coli
+conN4_177_045G1_concoct_13.fa,Clostridium perfringens
+conN4_177_045G1_concoct_19.fa,Klebsiella pneumoniae
+conN4_177_045G1_concoct_1.fa,Finegoldia magna ATCC 29328
+conN4_179_000G1_concoct_17.fa,Finegoldia magna ATCC 29328
+conN4_179_000G1_concoct_23.fa,Hafnia alvei
+conN4_179_000G1_concoct_37.fa,Klebsiella variicola At-22
+conN4_179_000G1_concoct_7.fa,Clostridioides difficile
+conN4_179_013G1_concoct_9.fa,Aeromonas hydrophila 4AK4
+conN4_179_018G1_concoct_11.fa,Klebsiella oxytoca
+conN4_179_018G1_concoct_3.fa,Veillonella parvula DSM 2008
+conN4_179_018G1_concoct_8.fa,Clostridium butyricum
+conN4_179_023G1_concoct_11.fa,Anaerococcus prevotii DSM 20548
+conN4_179_023G1_concoct_21.fa,Clostridium baratii str. Sullivan
+conN4_179_023G1_concoct_28.fa,Enterobacter cloacae complex sp. 35734
+conN4_179_023G1_concoct_32.fa,Enterococcus faecalis ATCC 29212
+conN4_179_036G1_concoct_19.fa,Enterobacter cloacae
+conN4_179_064G1_concoct_22.fa,Escherichia coli
+conN4_180_000G1_concoct_13.fa,Staphylococcus epidermidis
+conN4_180_000G1_concoct_14.fa,Clostridioides difficile
+conN4_180_000G1_concoct_21.fa,Veillonella parvula DSM 2008
+conN4_180_000G1_concoct_30.fa,Kluyvera intermedia
+conN4_180_000G1_concoct_32.fa,Clostridium baratii str. Sullivan
+conN4_180_000G1_concoct_40.fa,Klebsiella variicola At-22
+conN4_180_000G1_concoct_45.fa,Hafnia alvei
+conN4_180_018G1_concoct_20.fa,Enterococcus faecalis D32
+conN4_180_018G2_concoct_22.fa,Enterobacteriaceae bacterium strain FGI 57
+conN4_180_023G1_concoct_31.fa,Klebsiella oxytoca
+conN4_188_000G1_concoct_10.fa,Veillonella parvula DSM 2008
+conN4_188_000G1_concoct_16.fa,Mobiluncus curtisii ATCC 43063
+conN4_188_000G1_concoct_30.fa,Clostridium baratii str. Sullivan
+conN4_188_000G1_concoct_3.fa,Clostridium perfringens
+conN4_188_000G1_concoct_5.fa,Dermabacter vaginalis
+conN4_188_000G1_concoct_8.fa,Pseudomonas aeruginosa
+conN4_188_025G1_concoct_16.fa,Enterococcus faecalis D32
+conN4_188_038G1_concoct_17.fa,Haemophilus parainfluenzae T3T1
+conN4_188_038G1_concoct_8.fa,Clostridium butyricum
+conN4_188_045G1_concoct_11.fa,Veillonella parvula DSM 2008
+conN4_188_045G1_concoct_1.fa,Clostridioides difficile
+conN4_188_045G1_concoct_21.fa,Bifidobacterium breve JCM 7017
+conN4_188_045G1_concoct_22.fa,Lachnoclostridium sp. YL32
+conN4_188_045G1_concoct_3.fa,Veillonella parvula DSM 2008
+conN4_189_000G1_concoct_18.fa,Enterococcus faecalis ATCC 29212
+conN4_189_000G1_concoct_23.fa,Enterobacter asburiae
+conN4_189_000G1_concoct_31.fa,Clostridioides difficile
+conN4_189_000G1_concoct_9.fa,Streptococcus salivarius
+conN4_189_014G1_concoct_23.fa,Clostridium butyricum
+conN4_189_020G1_concoct_24.fa,Clostridium baratii str. Sullivan
+conN4_189_020G1_concoct_28.fa,Mobiluncus curtisii ATCC 43063
+conN4_189_020G1_concoct_8.fa,Leclercia adecarboxylata
+conN4_189_032G1_concoct_29.fa,Bifidobacterium longum
+conN4_189_040G1_concoct_14.fa,Leclercia adecarboxylata
+conN4_189_040G1_concoct_25.fa,Megasphaera elsdenii 14-14
+conN4_189_040G1_concoct_2.fa,Erysipelotrichaceae bacterium I46
+conN4_189_040G1_concoct_31.fa,Clostridium baratii str. Sullivan
+conN4_189_040G1_concoct_5.fa,Veillonella parvula DSM 2008
+conN4_205_000G1_concoct_23.fa,Finegoldia magna ATCC 29328
+conN4_205_000G1_concoct_28.fa,Megasphaera elsdenii 14-14
+conN4_205_000G1_concoct_29.fa,[Eubacterium] eligens ATCC 27750
+conN4_205_000G1_concoct_35.fa,Clostridium perfringens
+conN4_205_011G1_concoct_1.fa,Escherichia coli
+conN4_205_011G1_concoct_23.fa,Enterococcus faecalis
+conN4_205_016G1_concoct_22.fa,Morganella morganii
+conN4_205_038G1_concoct_0.fa,Propionibacterium avidum 44067
+conN4_205_038G1_concoct_12.fa,Veillonella parvula DSM 2008
+conN4_205_038G1_concoct_22.fa,Bifidobacterium breve
+conN4_205_052G1_concoct_16.fa,Propionibacterium acidipropionici
+conN4_205_052G1_concoct_1.fa,Clostridioides difficile
+conN4_205_052G1_concoct_20.fa,Anaerococcus prevotii DSM 20548
+conN4_205_052G1_concoct_3.fa,Parabacteroides distasonis ATCC 8503
+conN4_205_052G1_concoct_4.fa,Kluyvera intermedia
+conN4_206_000G1_concoct_30.fa,Staphylococcus lugdunensis
+conN4_206_000G1_concoct_31.fa,Clostridioides difficile
+conN4_206_000G1_concoct_33.fa,Klebsiella variicola At-22
+conN4_206_000G1_concoct_4.fa,Bacteroides vulgatus ATCC 8482
+conN4_206_000G1_concoct_5.fa,Megasphaera elsdenii 14-14
+conN4_206_016G1_concoct_0.fa,Staphylococcus epidermidis
+conN4_206_021G1_concoct_11.fa,Bifidobacterium breve UCC2003
+conN4_206_021G1_concoct_18.fa,Finegoldia magna ATCC 29328
+conN4_206_021G1_concoct_20.fa,Morganella morganii
+conN4_206_021G1_concoct_29.fa,Actinomyces sp. oral taxon 414
+conN4_206_038G1_concoct_13.fa,Veillonella parvula DSM 2008
+conN4_206_038G1_concoct_14.fa,[Eubacterium] eligens ATCC 27750
+conN4_206_038G1_concoct_15.fa,Enterococcus faecium T110
+conN4_206_038G1_concoct_19.fa,Anaerococcus prevotii DSM 20548
+conN4_206_038G1_concoct_1.fa,Propionibacterium acidipropionici
+conN4_206_038G1_concoct_23.fa,Enterococcus faecalis
+conN4_206_038G1_concoct_26.fa,Finegoldia magna ATCC 29328
+conN4_206_052G1_concoct_6.fa,Clostridium butyricum
+conN4_206_052G1_concoct_9.fa,Escherichia coli
+conN4_207_000G1_concoct_32.fa,Staphylococcus lugdunensis
+conN4_207_000G1_concoct_34.fa,Escherichia coli
+conN4_207_000G1_concoct_35.fa,Actinomyces sp. oral taxon 414
+conN4_207_000G1_concoct_42.fa,Bradyrhizobium sp. BTAi1
+conN4_207_008G1_concoct_20.fa,Clostridium baratii str. Sullivan
+conN4_207_008G1_concoct_22.fa,Haemophilus parainfluenzae T3T1
+conN4_207_009G1_concoct_12.fa,Enterobacter asburiae
+conN4_207_009G1_concoct_9.fa,Veillonella parvula DSM 2008
+conN4_207_024G1_concoct_23.fa,Staphylococcus haemolyticus
+conN4_207_024G1_concoct_30.fa,Streptococcus sp. VT 162
+conN4_207_024G1_concoct_32.fa,Enterococcus faecalis
+conN4_207_024G1_concoct_36.fa,Serratia marcescens SM39
+conN4_207_025G1_concoct_2.fa,Staphylococcus epidermidis
+conN4_207_028G1_concoct_9.fa,Klebsiella pneumoniae
+conN4_208_000G1_concoct_15.fa,Actinomyces sp. oral taxon 414
+conN4_208_000G1_concoct_17.fa,Clostridium perfringens
+conN4_208_000G1_concoct_4.fa,Staphylococcus epidermidis
+conN4_208_008G1_concoct_30.fa,Veillonella parvula DSM 2008
+conN4_208_009G1_concoct_5.fa,Enterobacter asburiae
+conN4_208_014G1_concoct_12.fa,Escherichia coli
+conN4_208_014G1_concoct_3.fa,Veillonella parvula DSM 2008
+conN4_208_021G1_concoct_1.fa,Enterococcus faecalis
+conN4_208_040G1_concoct_1.fa,Clostridioides difficile
+conN4_208_040G1_concoct_5.fa,Streptococcus salivarius
+conN4_208_046G1_concoct_13.fa,Klebsiella pneumoniae
+conN4_208_046G1_concoct_14.fa,Blautia sp. YL58
+conN4_208_046G1_concoct_16.fa,Bifidobacterium breve 689b
+conN4_210_000G1_concoct_18.fa,Streptococcus mitis
+conN4_210_000G1_concoct_1.fa,Lachnoclostridium sp. YL32
+conN4_210_008G1_concoct_0.fa,Staphylococcus lugdunensis
+conN4_210_013G1_concoct_12.fa,Enterococcus faecium T110
+conN4_210_013G1_concoct_2.fa,Clostridioides difficile
+conN4_210_013G1_concoct_4.fa,Pantoea sp. PSNIH2
+conN4_210_013G1_concoct_5.fa,Propionibacterium avidum 44067
+conN4_211_000G1_concoct_25.fa,Hafnia alvei FB1
+conN4_211_000G1_concoct_34.fa,Enterococcus faecium T110
+conN4_211_010G1_concoct_8.fa,Clostridium butyricum
+conN4_211_010G1_concoct_9.fa,Raoultella ornithinolytica
+conN4_211_016G1_concoct_13.fa,Clostridioides difficile
+conN4_211_016G1_concoct_14.fa,Bradyrhizobium sp. BTAi1
+conN4_212_000G1_concoct_0.fa,Anaerococcus prevotii DSM 20548
+conN4_212_000G1_concoct_11.fa,Streptococcus salivarius
+conN4_212_000G1_concoct_22.fa,Roseburia hominis A2-183
+conN4_212_000G1_concoct_2.fa,Roseburia hominis A2-183
+conN4_212_000G1_concoct_45.fa,Clostridium baratii str. Sullivan
+conN4_212_000G1_concoct_7.fa,Klebsiella oxytoca
+conN4_212_008G1_concoct_14.fa,Escherichia coli
+conN4_212_008G1_concoct_1.fa,Staphylococcus warneri SG1
+conN4_212_008G1_concoct_24.fa,Lactobacillus fermentum IFO 3956
+conN4_212_008G1_concoct_29.fa,Enterococcus faecalis
+conN4_212_008G1_concoct_33.fa,Clostridium butyricum
+conN4_212_010G1_concoct_21.fa,Megasphaera elsdenii 14-14
+conN4_212_012G1_concoct_25.fa,Citrobacter freundii
+conN4_212_012G1_concoct_2.fa,Corynebacterium atypicum
+conN4_212_014G1_concoct_11.fa,Clostridioides difficile
+conN4_212_014G1_concoct_15.fa,Clostridium perfringens
+conN4_212_020G1_concoct_18.fa,Erysipelotrichaceae bacterium I46
+conN4_212_020G1_concoct_23.fa,Streptococcus parasanguinis FW213
+conN4_212_020G1_concoct_2.fa,Flavonifractor plautii
+conN4_213_000G1_concoct_13.fa,Bradyrhizobium sp. BTAi1
+conN4_213_000G1_concoct_20.fa,Staphylococcus epidermidis
+conN4_213_005G1_concoct_8.fa,Klebsiella variicola
+conN4_213_026G1_concoct_12.fa,Klebsiella pneumoniae
+conN4_213_029G1_concoct_10.fa,Veillonella parvula DSM 2008
+conN4_213_029G1_concoct_15.fa,Streptococcus salivarius
+conN4_213_030G1_concoct_1.fa,Enterobacter sp. E20
+conN4_213_030G1_concoct_20.fa,Enterococcus faecalis
+conN4_214_000G1_concoct_23.fa,Bifidobacterium longum
+conN4_214_000G1_concoct_25.fa,Clostridium baratii str. Sullivan
+conN4_214_011G1_concoct_26.fa,Streptococcus mitis
+conN4_214_014G1_concoct_14.fa,Veillonella parvula DSM 2008
+conN4_214_014G1_concoct_35.fa,Enterococcus faecalis
+conN4_214_024G1_concoct_10.fa,Veillonella parvula DSM 2008
+conN4_214_024G1_concoct_4.fa,Klebsiella pneumoniae
+conN4_214_024G1_concoct_7.fa,Clostridium butyricum
+conN4_214_024G1_concoct_8.fa,Clostridioides difficile
+conS2_001_000G1_concoct_4.fa,Desulfovibrio vulgaris str. 'Miyazaki F'
+conS2_001_000G1_concoct_6.fa,Clostridioides difficile
+conS2_001_006Y1_concoct_5.fa,Citrobacter koseri ATCC BAA-895
+conS2_001_015G1_concoct_3.fa,Bacteroides vulgatus ATCC 8482
+conS2_001_023W1_concoct_12.fa,Staphylococcus epidermidis
+conS2_001_023W1_concoct_13.fa,Dermabacter vaginalis
+conS2_001_023W1_concoct_14.fa,Streptococcus mitis
+conS2_001_023W1_concoct_9.fa,Corynebacterium sp. ATCC 6931
+conS2_001_023Y1_concoct_4.fa,Haemophilus parainfluenzae T3T1
+conS2_001_024G1_concoct_7.fa,Enterococcus faecalis
+conS2_001_027G1_concoct_3.fa,Klebsiella pneumoniae
+conS2_002_000G1_concoct_24.fa,Clostridium butyricum
+conS2_002_000G1_concoct_35.fa,Neisseria meningitidis
+conS2_002_000G1_concoct_42.fa,Clostridioides difficile
+conS2_002_005G1_concoct_42.fa,Clostridium baratii str. Sullivan
+conS2_002_005G1_concoct_52.fa,Veillonella parvula DSM 2008
+conS2_002_005G1_concoct_62.fa,Enterobacter asburiae
+conS2_002_011G1_concoct_2.fa,Veillonella parvula DSM 2008
+conS2_002_011G1_concoct_8.fa,Staphylococcus lugdunensis
+conS2_002_013G1_concoct_31.fa,Staphylococcus epidermidis
+conS2_002_014G1_concoct_17.fa,Corynebacterium simulans
+conS2_002_020G1_concoct_15.fa,Klebsiella pneumoniae
+conS2_002_022G1_concoct_17.fa,Staphylococcus warneri SG1
+conS2_002_023G1_concoct_18.fa,Streptococcus mitis
+conS2_002_023G1_concoct_9.fa,Enterobacter cloacae
+conS2_002_024G1_concoct_10.fa,Staphylococcus aureus
+conS2_002_026G1_concoct_1.fa,Streptococcus mitis
+conS2_002_027G1_concoct_10.fa,Haemophilus parainfluenzae T3T1
+conS2_002_027G1_concoct_30.fa,Clostridium perfringens
+conS2_002_028G1_concoct_20.fa,Clostridioides difficile
+conS2_002_028G1_concoct_22.fa,Actinobacillus equuli subsp. equuli
+conS2_003_000G1_concoct_19.fa,Veillonella parvula DSM 2008
+conS2_003_005G1_concoct_25.fa,Streptococcus mitis
+conS2_003_007G1_concoct_13.fa,Streptococcus agalactiae
+conS2_003_007G1_concoct_3.fa,Clostridium perfringens
+conS2_003_007G1_concoct_5.fa,Clostridioides difficile
+conS2_003_008G1_concoct_18.fa,Staphylococcus aureus
+conS2_003_008G1_concoct_6.fa,Staphylococcus warneri SG1
+conS2_003_011G1_concoct_0.fa,Haemophilus parainfluenzae T3T1
+conS2_003_012G1_concoct_2.fa,Streptococcus mitis
+conS2_003_020G1_concoct_6.fa,Staphylococcus epidermidis
+conS2_003_021G1_concoct_11.fa,Streptococcus salivarius
+conS2_003_021G1_concoct_16.fa,Enterococcus faecalis
+conS2_004_000G1_concoct_12.fa,Neisseria meningitidis
+conS2_004_000G1_concoct_23.fa,Finegoldia magna ATCC 29328
+conS2_004_000G1_concoct_42.fa,Clostridioides difficile
+conS2_004_000G1_concoct_44.fa,Eggerthella lenta DSM 2243
+conS2_004_000G1_concoct_59.fa,Pseudomonas aeruginosa
+conS2_004_000G1_concoct_5.fa,Clostridioides difficile
+conS2_004_000G1_concoct_6.fa,Propionibacterium avidum 44067
+conS2_004_006G1_concoct_0.fa,Streptococcus salivarius
+conS2_004_006G1_concoct_5.fa,Clostridium perfringens
+conS2_004_007G1_concoct_19.fa,Enterococcus faecalis
+conS2_004_007G1_concoct_31.fa,Streptococcus salivarius JIM8777
+conS2_004_008G1_concoct_26.fa,Staphylococcus epidermidis
+conS2_004_010G1_concoct_24.fa,Haemophilus parainfluenzae T3T1
+conS2_004_010G1_concoct_31.fa,Klebsiella michiganensis
+conS2_004_011G1_concoct_38.fa,Enterobacter cloacae
+conS2_004_012G1_concoct_15.fa,Clostridium perfringens
+conS2_004_012G1_concoct_28.fa,Clostridioides difficile
+conS2_004_013G1_concoct_3.fa,Clostridioides difficile
+conS2_004_014G1_concoct_18.fa,Klebsiella oxytoca
+conS2_004_015G1_concoct_18.fa,Veillonella parvula DSM 2008
+conS2_004_015G1_concoct_21.fa,Veillonella parvula DSM 2008
+conS2_004_020G1_concoct_3.fa,Clostridium perfringens
+conS2_004_021G1_concoct_3.fa,Escherichia coli
+conS2_004_026G1_concoct_21.fa,Streptococcus lutetiensis 033
+conS2_004_027G1_concoct_2.fa,Clostridium perfringens
+conS2_004_027G1_concoct_3.fa,Veillonella parvula DSM 2008
+conS2_004_027G1_concoct_6.fa,Klebsiella michiganensis
+conS2_004_027G1_concoct_9.fa,Clostridium baratii str. Sullivan
+conS2_005_000G1_concoct_1.fa,Finegoldia magna ATCC 29328
+conS2_005_000G1_concoct_7.fa,Staphylococcus epidermidis
+conS2_005_005G1_concoct_1.fa,Streptococcus agalactiae
+conS2_005_005G1_concoct_3.fa,Ureaplasma parvum serovar 3
+conS2_005_007G1_concoct_0.fa,Klebsiella pneumoniae
+conS2_005_011G1_concoct_8.fa,Pseudomonas aeruginosa
+conS2_005_019G1_concoct_6.fa,Enterococcus faecalis D32
+conS2_005_022W1_concoct_15.fa,Corynebacterium simulans
+conS2_005_022W1_concoct_2.fa,Escherichia coli
+conS2_005_022W1_concoct_3.fa,Staphylococcus aureus
+conS2_005_023G1_concoct_13.fa,Clostridium perfringens
+conS2_005_025G1_concoct_6.fa,Propionibacterium avidum 44067
+conS2_005_028Y1_concoct_1.fa,Rothia mucilaginosa DY-18
+conS2_005_028Y1_concoct_5.fa,Serratia marcescens
+conS2_006_000G1_concoct_22.fa,Staphylococcus epidermidis
+conS2_006_000G1_concoct_6.fa,Roseburia hominis A2-183
+conS2_006_010G1_concoct_10.fa,Escherichia coli
+conS2_006_011G1_concoct_2.fa,Citrobacter freundii
+conS2_006_012G1_concoct_12.fa,Klebsiella pneumoniae
+conS2_006_012G1_concoct_7.fa,Enterococcus faecalis
+conS2_006_012G1_concoct_8.fa,Streptococcus pasteurianus ATCC 43144
+conS2_006_015G1_concoct_7.fa,Pantoea vagans C9-1
+conS2_006_018G1_concoct_12.fa,Veillonella parvula DSM 2008
+conS2_006_023G1_concoct_2.fa,Clostridium perfringens
+conS2_006_023G1_concoct_35.fa,Cedecea neteri
+conS2_006_026G1_concoct_20.fa,Veillonella parvula DSM 2008
+conS2_006_027G1_concoct_15.fa,Klebsiella michiganensis
+conS2_008_000G1_concoct_2.fa,Klebsiella pneumoniae
+conS2_008_000G1_concoct_30.fa,Citrobacter amalonaticus
+conS2_008_000G1_concoct_43.fa,Corynebacterium simulans
+conS2_008_007G1_concoct_13.fa,Veillonella parvula DSM 2008
+conS2_008_010G1_concoct_21.fa,Pseudomonas aeruginosa
+conS2_008_010G1_concoct_2.fa,Staphylococcus epidermidis
+conS2_008_011G1_concoct_13.fa,Enterococcus faecalis
+conS2_008_012G1_concoct_11.fa,Aeromonas hydrophila 4AK4
+conS2_008_012G1_concoct_15.fa,Streptococcus salivarius
+conS2_008_014G1_concoct_12.fa,Propionibacterium acidipropionici
+conS2_008_017G1_concoct_18.fa,Enterobacter asburiae
+conS2_008_017G1_concoct_8.fa,Clostridioides difficile
+conS2_008_021G1_concoct_10.fa,Citrobacter amalonaticus
+conS2_008_026G1_concoct_11.fa,Corynebacterium atypicum
+conS2_008_026G1_concoct_15.fa,Veillonella parvula DSM 2008
+conS2_008_026G1_concoct_16.fa,Citrobacter freundii
+conS2_008_026G1_concoct_18.fa,Clostridium butyricum
+conS2_008_027G1_concoct_0.fa,Clostridium perfringens
+conS2_008_027G1_concoct_11.fa,Propionibacterium avidum 44067
+conS2_009_000G1_concoct_17.fa,Helicobacter pylori
+conS2_009_000G1_concoct_4.fa,Clostridium perfringens
+conS2_009_008G1_concoct_2.fa,Corynebacterium simulans
+conS2_009_009G1_concoct_6.fa,Klebsiella pneumoniae
+conS2_009_010G1_concoct_11.fa,Staphylococcus epidermidis
+conS2_009_012G1_concoct_29.fa,Citrobacter freundii
+conS2_009_018G1_concoct_17.fa,Citrobacter freundii
+conS2_009_024G1_concoct_12.fa,Enterococcus faecalis
+conS2_010_000G1_concoct_8.fa,Veillonella parvula DSM 2008
+conS2_010_011G1_concoct_22.fa,Klebsiella oxytoca
+conS2_010_017G1_concoct_3.fa,Escherichia coli
+conS2_010_018G1_concoct_13.fa,Clostridium butyricum
+conS2_010_018G1_concoct_6.fa,Anaerococcus prevotii DSM 20548
+conS2_010_022G1_concoct_1.fa,Haemophilus parainfluenzae T3T1
+conS2_010_023G1_concoct_10.fa,Enterococcus faecalis
+conS2_010_023G1_concoct_15.fa,Clostridium baratii str. Sullivan
+conS2_010_024G1_concoct_12.fa,Roseburia hominis A2-183
+conS2_010_026G1_concoct_18.fa,Akkermansia muciniphila
+conS2_010_030G1_concoct_20.fa,Clostridium perfringens
+conS2_010_030G1_concoct_8.fa,Lachnoclostridium sp. YL32
+conS2_011_000G1_concoct_6.fa,Bacteroides helcogenes P 36-108
+conS2_011_008G1_concoct_14.fa,Escherichia coli
+conS2_011_008G1_concoct_17.fa,Bacteroides thetaiotaomicron VPI-5482
+conS2_011_009G1_concoct_11.fa,Parabacteroides distasonis ATCC 8503
+conS2_011_014G1_concoct_2.fa,Bacteroides vulgatus ATCC 8482
+conS2_011_021G1_concoct_16.fa,Clostridium perfringens
+conS2_011_021G1_concoct_19.fa,Bacteroides ovatus
+conS2_011_022G1_concoct_12.fa,Streptococcus anginosus
+conS2_011_022G1_concoct_3.fa,Bacteroides fragilis
+conS2_011_024G1_concoct_34.fa,Bifidobacterium bifidum S17
+conS2_011_026G1_concoct_7.fa,Bacteroides helcogenes P 36-108
+conS2_012_000G1_concoct_44.fa,Mobiluncus curtisii ATCC 43063
+conS2_012_000G1_concoct_7.fa,Streptococcus thermophilus
+conS2_012_007G1_concoct_14.fa,Bacillus subtilis
+conS2_012_010G1_concoct_22.fa,Pseudomonas putida GB-1
+conS2_012_011G1_concoct_17.fa,Enterococcus faecalis
+conS2_012_012G1_concoct_16.fa,Streptococcus parasanguinis ATCC 15912
+conS2_012_013G1_concoct_9.fa,Staphylococcus lugdunensis
+conS2_012_015G1_concoct_21.fa,Staphylococcus aureus
+conS2_012_016G1_concoct_25.fa,Staphylococcus epidermidis
+conS2_012_017G1_concoct_5.fa,Enterobacter cloacae complex sp. 35734
+conS2_012_018G1_concoct_2.fa,Clostridium perfringens
+conS2_012_018G1_concoct_6.fa,Clostridium butyricum
+conS2_012_024G1_concoct_3.fa,Clostridioides difficile
+conS2_012_024G1_concoct_4.fa,Veillonella parvula DSM 2008
+conS2_012_025G1_concoct_15.fa,Aeromonas hydrophila 4AK4
+conS2_012_026G1_concoct_5.fa,Acinetobacter baumannii
+conS2_012_027G1_concoct_13.fa,Escherichia coli
+conS2_014_000G1_concoct_0.fa,Streptococcus mitis
+conS2_014_000G1_concoct_10.fa,Clostridioides difficile
+conS2_014_000G1_concoct_18.fa,Staphylococcus aureus
+conS2_014_000G1_concoct_20.fa,Kluyvera intermedia
+conS2_014_000G1_concoct_22.fa,Corynebacterium kroppenstedtii DSM 44385
+conS2_014_000G1_concoct_27.fa,Peptoniphilus sp. 1-1
+conS2_014_000G1_concoct_40.fa,Pseudomonas sp. L10.10
+conS2_014_000G1_concoct_45.fa,Actinomyces sp. oral taxon 414
+conS2_014_000G1_concoct_47.fa,Azospirillum brasilense
+conS2_014_007G1_concoct_21.fa,Pseudomonas putida
+conS2_014_010G1_concoct_12.fa,Staphylococcus epidermidis
+conS2_014_015G1_concoct_26.fa,Hafnia alvei FB1
+conS2_014_017G1_concoct_11.fa,Veillonella parvula DSM 2008
+conS2_014_017G1_concoct_15.fa,Finegoldia magna ATCC 29328
+conS2_014_017G1_concoct_18.fa,Enterococcus faecalis
+conS2_014_018G1_concoct_9.fa,Propionibacterium avidum 44067
+conS2_014_019G1_concoct_15.fa,Enterobacter asburiae
+conS2_014_020G1_concoct_4.fa,Clostridioides difficile
+conS2_014_021G1_concoct_19.fa,Haemophilus influenzae
+conS2_014_023G1_concoct_20.fa,Clostridium perfringens
+conS2_014_024G1_concoct_4.fa,Clostridium baratii str. Sullivan
+conS2_014_025G1_concoct_15.fa,Pseudomonas aeruginosa
+conS2_014_026G1_concoct_11.fa,Klebsiella pneumoniae
+conS2_014_026G1_concoct_5.fa,Anaerococcus prevotii DSM 20548
+conS2_014_026G1_concoct_9.fa,Serratia marcescens
+conS2_015_005G1_concoct_1.fa,Sneathia amnii
+conS2_015_009G1_concoct_16.fa,Staphylococcus epidermidis
+conS2_015_009G1_concoct_20.fa,Mycoplasma hominis
+conS2_015_013G1_concoct_0.fa,Klebsiella pneumoniae
+conS2_016_000G1_concoct_12.fa,Paenibacillus riograndensis SBR5
+conS2_016_000G1_concoct_13.fa,Propionibacterium avidum 44067
+conS2_016_000G1_concoct_1.fa,Propionibacterium propionicum F0230a
+conS2_016_000G1_concoct_25.fa,Clostridium butyricum
+conS2_016_000G1_concoct_34.fa,Anaerococcus prevotii DSM 20548
+conS2_016_000G1_concoct_35.fa,Desulfitobacterium hafniense Y51
+conS2_016_000G1_concoct_39.fa,Mobiluncus curtisii ATCC 43063
+conS2_016_000G1_concoct_8.fa,Providencia stuartii
+conS2_016_007G1_concoct_27.fa,Staphylococcus epidermidis
+conS2_016_011G1_concoct_48.fa,Klebsiella oxytoca
+conS2_016_013G1_concoct_34.fa,Klebsiella oxytoca
+conS2_016_014G1_concoct_23.fa,Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+conS2_016_016G1_concoct_10.fa,Enterococcus faecalis
+conS2_016_016G1_concoct_16.fa,Kluyvera intermedia
+conS2_016_016G1_concoct_8.fa,Enterobacter cloacae
+conS2_016_019G1_concoct_2.fa,Finegoldia magna ATCC 29328
+conS2_016_026G1_concoct_33.fa,Enterobacter cloacae complex sp. 35734
+conS2_016_027G1_concoct_15.fa,Actinomyces meyeri
+conS2_016_028G1_concoct_25.fa,Citrobacter freundii
+conS2_017_000G1_concoct_13.fa,Finegoldia magna ATCC 29328
+conS2_017_000G1_concoct_31.fa,Mobiluncus curtisii ATCC 43063
+conS2_017_006G1_concoct_33.fa,Escherichia coli
+conS2_017_008G1_concoct_18.fa,Staphylococcus epidermidis
+conS2_017_012G1_concoct_8.fa,Citrobacter freundii
+conS2_017_020G1_concoct_16.fa,Acinetobacter baumannii
+conS2_017_020G1_concoct_7.fa,Klebsiella oxytoca
+conS2_017_023G1_concoct_6.fa,Enterococcus faecalis
+conS2_018_000G1_concoct_1.fa,Streptococcus thermophilus
+conS2_018_000G1_concoct_20.fa,Clostridioides difficile
+conS2_018_000G1_concoct_21.fa,Lactococcus lactis subsp. cremoris SK11
+conS2_018_000G1_concoct_22.fa,Staphylococcus epidermidis
+conS2_018_000G1_concoct_26.fa,Enterococcus faecalis
+conS2_018_000G1_concoct_27.fa,Veillonella parvula DSM 2008
+conS2_018_000G1_concoct_4.fa,Streptococcus agalactiae
+conS2_018_000G1_concoct_6.fa,Prevotella melaninogenica ATCC 25845
+conS2_018_009G1_concoct_12.fa,Aeromonas hydrophila 4AK4
+conS2_018_012G1_concoct_5.fa,Escherichia coli
+conS2_018_017G1_concoct_13.fa,Klebsiella pneumoniae
+conS2_018_020G1_concoct_6.fa,Klebsiella oxytoca KONIH1
+conS2_CON_000E1_concoct_12.fa,Escherichia coli
+conS2_CON_000E1_concoct_16.fa,Lawsonella clevelandensis
+conS2_CON_002E1_concoct_3.fa,Klebsiella pneumoniae
+con_SP_CRL_000G1_concoct_16.fa,Propionibacterium avidum 44067
+con_SP_CRL_000G1_concoct_18.fa,Finegoldia magna ATCC 29328
+con_SP_CRL_000G1_concoct_24.fa,Leuconostoc citreum KM20
+con_SP_CRL_000G1_concoct_31.fa,Staphylococcus lugdunensis
+con_SP_CRL_015G1_concoct_0.fa,Enterococcus faecalis
+con_SP_CRL_018G1_concoct_1.fa,Staphylococcus haemolyticus
+con_SP_CRL_022G1_concoct_14.fa,Anaerococcus prevotii DSM 20548
+con_SP_CRL_022G1_concoct_8.fa,Staphylococcus epidermidis
+con_SP_CRL_022G2_concoct_6.fa,Staphylococcus aureus
